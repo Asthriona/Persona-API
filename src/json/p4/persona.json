@@ -1,0 +1,1499 @@
+[{
+        "Name": "Izanagi",
+        "Arcana": "Fool",
+        "Level": "1",
+        "Stats": {
+            "Strength": "3",
+            "Magic": "2",
+            "Endurance": "2",
+            "Agility": "3",
+            "Luck": "2"
+        },
+        "Inherit": "Electricity",
+        "Reflects": "None",
+        "Absorbs": "None",
+        "Block": "Dark",
+        "Resists": "Electricity",
+        "Weak": "Wind",
+        "Skills": [{
+                "Skill_name": "Zio",
+                "Cost": "4 SP",
+                "Effect": "Deals light Elec damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Cleave",
+                "Cost": "5% HP",
+                "Effect": "Deals light Phys damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Rakukaja",
+                "Cost": "12 SP",
+                "Effect": "Increases 1 ally's Defense for 3 turns",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Rakunda",
+                "Cost": "12 SP",
+                "Effect": "Decreases 1 foe's Defense for 3 turns",
+                "Level": "3"
+            },
+            {
+                "Skill_name": "Tarukaja",
+                "Cost": "12 SP",
+                "Effect": "Increases 1 ally's Attack for 3 turns",
+                "Level": "5"
+            }
+        ]
+    },
+    {
+        "Name": "Yomotsu-Shikome",
+        "Arcana": "Fool",
+        "Level": "7",
+        "Stats": {
+            "Strength": "2",
+            "Magic": "7",
+            "Endurance": "7",
+            "Agility": "8",
+            "Luck": "4"
+        },
+        "Inherit": "Negative Status",
+        "Reflects": "None",
+        "Absorbs": "None",
+        "Block": "None",
+        "Resists": "Ice",
+        "Weak": "Fire",
+        "Skills": [{
+                "Skill_name": "Poisma",
+                "Cost": "5 SP",
+                "Effect": "Poisons 1 foe (40% chance)",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Skewer",
+                "Cost": "5% HP",
+                "Effect": "Deals light Phys damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Evil Touch",
+                "Cost": "5 SP",
+                "Effect": "Instills Fear in 1 foe (40% chance)",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Sukunda",
+                "Cost": "12 SP",
+                "Effect": "Decreases 1 foe's Hit/Evasion rate for 3 turns",
+                "Level": "9"
+            },
+            {
+                "Skill_name": "Mudo",
+                "Cost": "8 SP",
+                "Effect": "Darkness: low chance of instant kill, 1 foe. (40% chance)",
+                "Level": "10"
+            },
+            {
+                "Skill_name": "Ghastly Wail",
+                "Cost": "15 SP",
+                "Effect": "Instantly kills foes who are fearful",
+                "Level": "11"
+            }
+        ]
+    },
+    {
+        "Name": "Obariyon",
+        "Arcana": "Fool",
+        "Level": "13",
+        "Stats": {
+            "Strength": "11",
+            "Magic": "6",
+            "Endurance": "11",
+            "Agility": "9",
+            "Luck": "9"
+        },
+        "Inherit": "Phys",
+        "Reflects": "None",
+        "Absorbs": "None",
+        "Block": "None",
+        "Resists": "Phys, Fire",
+        "Weak": "None",
+        "Skills": [{
+                "Skill_name": "Sonic Punch",
+                "Cost": "8% HP",
+                "Effect": "Deals light Phys damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Tarukaja",
+                "Cost": "12 SP",
+                "Effect": "Increases 1 ally's Attack for 3 turns. ",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Dekaja",
+                "Cost": "10 SP",
+                "Effect": "Nullifies stat bonuses on all foes",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Muzzle Shot",
+                "Cost": "9% HP",
+                "Effect": "Deals light Phys damage to 1 foe with a chance of Silence",
+                "Level": "14"
+            },
+            {
+                "Skill_name": "Silence Boost",
+                "Cost": "Passive",
+                "Effect": "Increases odds of inflicting Silence (1.5x)",
+                "Level": "15"
+            },
+            {
+                "Skill_name": "Resist Physical",
+                "Cost": "Passive",
+                "Effect": "Reduces damage from Phys attacks",
+                "Level": "17"
+            },
+            {
+                "Skill_name": "Single Shot",
+                "Cost": "9% HP",
+                "Effect": "Deals light Phys damage to 1 foe",
+                "Level": "18"
+            }
+        ]
+    },
+    {
+        "Name": "Legion",
+        "Arcana": "Fool",
+        "Level": "21",
+        "Stats": {
+            "Strength": "14",
+            "Magic": "14",
+            "Endurance": "18",
+            "Agility": "13",
+            "Luck": "11"
+        },
+        "Inherit": "Ailment",
+        "Reflects": "None",
+        "Absorbs": "None",
+        "Block": "None",
+        "Resists": "Fire, Ice, Dark",
+        "Weak": "Light",
+        "Skills": [{
+                "Skill_name": "Tentarafoo",
+                "Cost": "12 SP",
+                "Effect": "Confuses all foes (30% chance).",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Mudo",
+                "Cost": "8 SP",
+                "Effect": "Darkness: low chance of instant kill, 1 foe. (40% chance)",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Evil Smile",
+                "Cost": "12 SP",
+                "Effect": "Instills Fear in all foes (30% chance)",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Rampage",
+                "Cost": "12% HP",
+                "Effect": "Deals light Phys damage to all foes 1x to 3x",
+                "Level": "23"
+            },
+            {
+                "Skill_name": "Confuse Boost",
+                "Cost": "Passive",
+                "Effect": "Increases odds of inflicting Confusion (1.5x)",
+                "Level": "24"
+            },
+            {
+                "Skill_name": "Foul Breath",
+                "Cost": "8 SP",
+                "Effect": "Increase 1 foe's susceptibility to ailments and Light/Dark skills",
+                "Level": "25"
+            },
+            {
+                "Skill_name": "Survive Light",
+                "Cost": "Passive",
+                "Effect": "50% chance of surviving instant death 1 time from a Light attack with 1 HP",
+                "Level": "26"
+            }
+        ]
+    },
+    {
+        "Name": "Ose",
+        "Arcana": "Fool",
+        "Level": "31",
+        "Stats": {
+            "Strength": "28",
+            "Magic": "12",
+            "Endurance": "20",
+            "Agility": "25",
+            "Luck": "15"
+        },
+        "Inherit": "Physical",
+        "Reflects": "None",
+        "Absorbs": "None",
+        "Block": "Wind",
+        "Resists": "Physical",
+        "Weak": "Light",
+        "Skills": [{
+                "Skill_name": "Power Slash",
+                "Cost": "14% HP",
+                "Effect": "Deals medium Phys damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Atom Slasher",
+                "Cost": "16% HP",
+                "Effect": "Deals medium Phys damage to all foes 1x to 2x with a chance of Fear",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Power Charge",
+                "Cost": "15 SP",
+                "Effect": "Next physical attack will be 250% greater in power",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Poison Mist",
+                "Cost": "12 SP",
+                "Effect": "Poisons all foes (30% chance)",
+                "Level": "33"
+            },
+            {
+                "Skill_name": "Poison Boost",
+                "Cost": "Passive",
+                "Effect": "Increases odds of inflicting Poison (1.5x)",
+                "Level": "34"
+            },
+            {
+                "Skill_name": "Auto-Sukukaja",
+                "Cost": "Passive",
+                "Effect": "Automatic Sukukaja at the start of battle",
+                "Level": "35"
+            },
+            {
+                "Skill_name": "Survive Light",
+                "Cost": "Passive",
+                "Effect": "50% chance of surviving instant death 1 time from a Light attack with 1 HP",
+                "Level": "36"
+            }
+        ]
+    },
+    {
+        "Name": "Black Frost",
+        "Arcana": "Fool",
+        "Level": "38",
+        "Stats": {
+            "Strength": "23",
+            "Magic": "31",
+            "Endurance": "22",
+            "Agility": "23",
+            "Luck": "22"
+        },
+        "Inherit": "Dark",
+        "Reflects": "Dark",
+        "Absorbs": "Ice, Fire",
+        "Block": "None",
+        "Resists": "None",
+        "Weak": "None",
+        "Skills": [{
+                "Skill_name": "Maragion",
+                "Cost": "16 SP",
+                "Effect": "Deals medium Fire damage to all foes.",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Bufula",
+                "Cost": "8 SP",
+                "Effect": "Deals medium Ice damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Ice Boost",
+                "Cost": "Passive",
+                "Effect": "Strengthens Ice attacks by 25%",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Mind Charge",
+                "Cost": "15 SP",
+                "Effect": "Next magical attack will be 250% greater in power",
+                "Level": "40"
+            },
+            {
+                "Skill_name": "Masukunda",
+                "Cost": "24 SP",
+                "Effect": "Decreases all foes' Hit/Evasion rate for 3 turns",
+                "Level": "41"
+            },
+            {
+                "Skill_name": "Fire Amp",
+                "Cost": "Passive",
+                "Effect": "Strengthens Fire attacks by 50%",
+                "Level": "42"
+            },
+            {
+                "Skill_name": "Agidyne",
+                "Cost": "12 SP",
+                "Effect": "Deals heavy Fire damage to 1 foe",
+                "Level": "43"
+            },
+            {
+                "Skill_name": "Mudoon",
+                "Cost": "15 SP",
+                "Effect": "Darkness: medium chance of instant kill, 1 foe. (60% chance)",
+                "Level": "44"
+            }
+        ]
+    },
+    {
+        "Name": "Decarabia",
+        "Arcana": "Fool",
+        "Level": "46",
+        "Stats": {
+            "Strength": "27",
+            "Magic": "36",
+            "Endurance": "25",
+            "Agility": "26",
+            "Luck": "31"
+        },
+        "Inherit": "Fire",
+        "Reflects": "None",
+        "Absorbs": "None",
+        "Block": "Electricity, Light",
+        "Resists": "Wind",
+        "Weak": "Physical",
+        "Skills": [{
+                "Skill_name": "Agidyne",
+                "Cost": "12 SP",
+                "Effect": "Deals heavy Fire damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Matarunda",
+                "Cost": "24 SP",
+                "Effect": "Decreases all foes' Attack for 3 turns",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Tetrakarn",
+                "Cost": "36 SP",
+                "Effect": "Barrier that reflects phys dmg once. (1 ally)",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Evade Physical",
+                "Cost": "Passive",
+                "Effect": "Triples evasion rate against Phys attacks",
+                "Level": "48"
+            },
+            {
+                "Skill_name": "Megidola",
+                "Cost": "32 SP",
+                "Effect": "Deals heavy Almighty damage to all foes",
+                "Level": "50"
+            },
+            {
+                "Skill_name": "Fire Amp",
+                "Cost": "Passive",
+                "Effect": "Strengthens Fire attacks by 50%",
+                "Level": "51"
+            },
+            {
+                "Skill_name": "Resist Physical",
+                "Cost": "Passive",
+                "Effect": "Reduces damage from Phys attacks",
+                "Level": "52"
+            }
+        ]
+    },
+    {
+        "Name": "Shiki-Ouji",
+        "Arcana": "Fool",
+        "Level": "56",
+        "Stats": {
+            "Strength": "50",
+            "Magic": "29",
+            "Endurance": "31",
+            "Agility": "41",
+            "Luck": "24"
+        },
+        "Inherit": "Fire",
+        "Reflects": "None",
+        "Absorbs": "None",
+        "Block": "Fire, Ice",
+        "Resists": "None",
+        "Weak": "Wind",
+        "Skills": [{
+                "Skill_name": "Navas Nebula",
+                "Cost": "18% HP",
+                "Effect": "Deals medium Phys damage to all foes with a chance of Exhaustion",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Matarunda",
+                "Cost": "24 SP",
+                "Effect": "Decreases all foes' Attack for 3 turns",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Revolution",
+                "Cost": "5 SP",
+                "Effect": "Greatly increases Critical rate for 3 turns (all)",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Apt Pupil",
+                "Cost": "Passive",
+                "Effect": "Increases user's Critical Rate",
+                "Level": "58"
+            },
+            {
+                "Skill_name": "Growth 2",
+                "Cost": "Passive",
+                "Effect": "Persona gains 1/2 EXP while inactive",
+                "Level": "59"
+            },
+            {
+                "Skill_name": "Null Physical",
+                "Cost": "Passive",
+                "Effect": "Become immune to Phys attacks",
+                "Level": "62"
+            }
+        ]
+    },
+    {
+        "Name": "Loki",
+        "Arcana": "Fool",
+        "Level": "64",
+        "Stats": {
+            "Strength": "48",
+            "Magic": "50",
+            "Endurance": "31",
+            "Agility": "47",
+            "Luck": "23"
+        },
+        "Inherit": "Ice",
+        "Reflects": "None",
+        "Absorbs": "Ice",
+        "Block": "Dark",
+        "Resists": "None",
+        "Weak": "Fire",
+        "Skills": [{
+                "Skill_name": "Bufudyne",
+                "Cost": "12 SP",
+                "Effect": "Deals heavy Ice damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Rakukaja",
+                "Cost": "12 SP",
+                "Effect": "Increases 1 ally's Defense for 3 turns",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Sharp Student",
+                "Cost": "Passive",
+                "Effect": "Lowers odds of sustaining crit dmg",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Ice Amp",
+                "Cost": "Passive",
+                "Effect": "Strengthens Ice attacks by 50%",
+                "Level": "66"
+            },
+            {
+                "Skill_name": "High Counter",
+                "Cost": "Passive",
+                "Effect": "20% chance of reflecting Phys attacks",
+                "Level": "67"
+            },
+            {
+                "Skill_name": "Mabufugyne",
+                "Cost": "22 SP",
+                "Effect": "Deals heavy Ice damage to all foes",
+                "Level": "68"
+            },
+            {
+                "Skill_name": "Null Fire",
+                "Cost": "Passive",
+                "Effect": "Become immune to Fire attacks",
+                "Level": "69"
+            },
+            {
+                "Skill_name": "Niflheim",
+                "Cost": "48 SP",
+                "Effect": "Deals severe Ice damage to 1 foe",
+                "Level": "70"
+            }
+        ]
+    },
+    {
+        "Name": "Pixie",
+        "Arcana": "Magician",
+        "Level": "2",
+        "Stats": {
+            "Strength": "2",
+            "Magic": "3",
+            "Endurance": "2",
+            "Agility": "4",
+            "Luck": "2"
+        },
+        "Inherit": "Recovery",
+        "Reflects": "None",
+        "Absorbs": "None",
+        "Block": "None",
+        "Resists": "Wind",
+        "Weak": "Fire",
+        "Skills": [{
+                "Skill_name": "Dia",
+                "Cost": "3 SP",
+                "Effect": "Slightly restores 1 ally's HP",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Patra",
+                "Cost": "3 SP",
+                "Effect": "Dispels Confusion, Fear, and Rage (1 ally)",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Zio",
+                "Cost": "4 SP",
+                "Effect": "Deals light Elec damage to 1 foe",
+                "Level": "3"
+            },
+            {
+                "Skill_name": "Me Patra",
+                "Cost": "6 SP",
+                "Effect": "Dispels Confusion, Fear, and Rage (party)",
+                "Level": "4"
+            },
+            {
+                "Skill_name": "Trafuri",
+                "Cost": "24 SP",
+                "Effect": "Enables escape from most battles. (100% chance to escape normal battles)",
+                "Level": "8"
+            }
+        ]
+    },
+    {
+        "Name": "Jiraiya",
+        "Arcana": "Magician",
+        "Level": "4",
+        "Stats": {
+            "Strength": "5",
+            "Magic": "3",
+            "Endurance": "3",
+            "Agility": "5",
+            "Luck": "4"
+        },
+        "Inherit": "None",
+        "Reflects": "None",
+        "Absorbs": "None",
+        "Block": "None",
+        "Resists": "Wind",
+        "Weak": "Electricity",
+        "Skills": [{
+                "Skill_name": "Garu",
+                "Cost": "4 SP",
+                "Effect": "Deals light Wind damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Bash",
+                "Cost": "6% HP",
+                "Effect": "Deals light Phys damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Dia",
+                "Cost": "3 SP",
+                "Effect": "Slightly restores 1 ally's HP",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Sukukaja",
+                "Cost": "12 SP",
+                "Effect": "Increases 1 ally's Hit/Evasion rate for 3 turns",
+                "Level": "6"
+            },
+            {
+                "Skill_name": "Dekaja",
+                "Cost": "10 SP",
+                "Effect": "Nullifies stat bonuses on all foes",
+                "Level": "10"
+            },
+            {
+                "Skill_name": "Sonic Punch",
+                "Cost": "8% HP",
+                "Effect": "Deals light Phys damage to 1 foe",
+                "Level": "14"
+            },
+            {
+                "Skill_name": "Magaru",
+                "Cost": "10 SP",
+                "Effect": "Deals light Wind damage to all foes",
+                "Level": "18"
+            },
+            {
+                "Skill_name": "Tentarafoo",
+                "Cost": "12 SP",
+                "Effect": "Confuses all foes (30% chance)",
+                "Level": "23"
+            },
+            {
+                "Skill_name": "Garula",
+                "Cost": "8 SP",
+                "Effect": "Deals medium Wind damage to 1 foe",
+                "Level": "29"
+            },
+            {
+                "Skill_name": "Diarama",
+                "Cost": "6 SP",
+                "Effect": "Moderately restores 1 ally's HP",
+                "Level": "34"
+            },
+            {
+                "Skill_name": "Magarula",
+                "Cost": "16 SP",
+                "Effect": "Deals medium Wind damage to all foes",
+                "Level": "40"
+            },
+            {
+                "Skill_name": "Wind Boost",
+                "Cost": "Passive",
+                "Effect": "Strengthens Wind attacks by 25%",
+                "Level": "44"
+            },
+            {
+                "Skill_name": "Wind Break",
+                "Cost": "15 SP",
+                "Effect": "Nullifies 1 foe's Wind resistance (for 3 turns)",
+                "Level": "49"
+            },
+            {
+                "Skill_name": "Garudyne",
+                "Cost": "12 SP",
+                "Effect": "Deals heavy Wind damage to 1 foe",
+                "Level": "53"
+            },
+            {
+                "Skill_name": "Masukukaja",
+                "Cost": "24 SP",
+                "Effect": "Increases party's Hit/Evasion rate for 3 turns",
+                "Level": "60"
+            },
+            {
+                "Skill_name": "Magarudyne",
+                "Cost": "22 SP",
+                "Effect": "Deals heavy Wind damage to all foes",
+                "Level": "64"
+            },
+            {
+                "Skill_name": "Brave Blade",
+                "Cost": "20% HP",
+                "Effect": "Deals severe Phys damage to 1 foe",
+                "Level": "69"
+            },
+            {
+                "Skill_name": "Wind Amp",
+                "Cost": "Passive",
+                "Effect": "Strengthens Wind attacks by 50%",
+                "Level": "73"
+            }
+        ]
+    },
+    {
+        "Name": "Susano-o",
+        "Arcana": "Magician",
+        "Level": "Inherited",
+        "Stats": {
+            "Strength": "+3",
+            "Magic": "+1",
+            "Endurance": "+1",
+            "Agility": "+2",
+            "Luck": "+2"
+        },
+        "Inherit": "None",
+        "Reflects": "None",
+        "Absorbs": "None",
+        "Block": "Wind",
+        "Resists": "Fire",
+        "Weak": "None",
+        "Skills": [{
+                "Skill_name": "Garu",
+                "Cost": "4 SP",
+                "Effect": "Deals light Wind damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Bash",
+                "Cost": "6% HP",
+                "Effect": "Deals light Phys damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Dia",
+                "Cost": "3 SP",
+                "Effect": "Slightly restores 1 ally's HP",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Sukukaja",
+                "Cost": "12 SP",
+                "Effect": "Increases 1 ally's Hit/Evasion rate for 3 turns",
+                "Level": "6"
+            },
+            {
+                "Skill_name": "Dekaja",
+                "Cost": "10 SP",
+                "Effect": "Nullifies stat bonuses on all foes",
+                "Level": "10"
+            },
+            {
+                "Skill_name": "Sonic Punch",
+                "Cost": "8% HP",
+                "Effect": "Deals light Phys damage to 1 foe",
+                "Level": "14"
+            },
+            {
+                "Skill_name": "Magaru",
+                "Cost": "10 SP",
+                "Effect": "Deals light Wind damage to all foes",
+                "Level": "18"
+            },
+            {
+                "Skill_name": "Tentarafoo",
+                "Cost": "12 SP",
+                "Effect": "Confuses all foes (30% chance)",
+                "Level": "23"
+            },
+            {
+                "Skill_name": "Garula",
+                "Cost": "8 SP",
+                "Effect": "Deals medium Wind damage to 1 foe",
+                "Level": "29"
+            },
+            {
+                "Skill_name": "Diarama",
+                "Cost": "6 SP",
+                "Effect": "Moderately restores 1 ally's HP",
+                "Level": "34"
+            },
+            {
+                "Skill_name": "Magarula",
+                "Cost": "16 SP",
+                "Effect": "Deals medium Wind damage to all foes",
+                "Level": "40"
+            },
+            {
+                "Skill_name": "Wind Boost",
+                "Cost": "Passive",
+                "Effect": "Strengthens Wind attacks by 25%",
+                "Level": "44"
+            },
+            {
+                "Skill_name": "Wind Break",
+                "Cost": "15 SP",
+                "Effect": "Nullifies 1 foe's Wind resistance (for 3 turns)",
+                "Level": "49"
+            },
+            {
+                "Skill_name": "Garudyne",
+                "Cost": "12 SP",
+                "Effect": "Deals heavy Wind damage to 1 foe",
+                "Level": "53"
+            },
+            {
+                "Skill_name": "Masukukaja",
+                "Cost": "24 SP",
+                "Effect": "Increases party's Hit/Evasion rate for 3 turns",
+                "Level": "60"
+            },
+            {
+                "Skill_name": "Magarudyne",
+                "Cost": "22 SP",
+                "Effect": "Deals heavy Wind damage to all foes",
+                "Level": "64"
+            },
+            {
+                "Skill_name": "Brave Blade",
+                "Cost": "20% HP",
+                "Effect": "Deals severe Phys damage to 1 foe",
+                "Level": "69"
+            },
+            {
+                "Skill_name": "Wind Amp",
+                "Cost": "Passive",
+                "Effect": "Strengthens Wind attacks by 50%",
+                "Level": "73"
+            }
+        ]
+    },
+    {
+        "Name": "Takehaya Susano-o",
+        "Arcana": "Magician",
+        "Level": "Inherited",
+        "Stats": {
+            "Strength": "None",
+            "Magic": "None",
+            "Endurance": "None",
+            "Agility": "None",
+            "Luck": "None"
+        },
+        "Inherit": "None",
+        "Reflects": "None",
+        "Absorbs": "Wind",
+        "Block": "Fire",
+        "Resists": "None",
+        "Weak": "Elec",
+        "Skills": [{
+                "Skill_name": "Garu",
+                "Cost": "4 SP",
+                "Effect": "Deals light Wind damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Bash",
+                "Cost": "6% HP",
+                "Effect": "Deals light Phys damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Dia",
+                "Cost": "3 SP",
+                "Effect": "Slightly restores 1 ally's HP",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Sukukaja",
+                "Cost": "12 SP",
+                "Effect": "Increases 1 ally's Hit/Evasion rate for 3 turns",
+                "Level": "6"
+            },
+            {
+                "Skill_name": "Dekaja",
+                "Cost": "10 SP",
+                "Effect": "Nullifies stat bonuses on all foes",
+                "Level": "10"
+            },
+            {
+                "Skill_name": "Sonic Punch",
+                "Cost": "8% HP",
+                "Effect": "Deals light Phys damage to 1 foe",
+                "Level": "14"
+            },
+            {
+                "Skill_name": "Magaru",
+                "Cost": "10 SP",
+                "Effect": "Deals light Wind damage to all foes",
+                "Level": "18"
+            },
+            {
+                "Skill_name": "Tentarafoo",
+                "Cost": "12 SP",
+                "Effect": "Confuses all foes (30% chance)",
+                "Level": "23"
+            },
+            {
+                "Skill_name": "Garula",
+                "Cost": "8 SP",
+                "Effect": "Deals medium Wind damage to 1 foe",
+                "Level": "29"
+            },
+            {
+                "Skill_name": "Diarama",
+                "Cost": "6 SP",
+                "Effect": "Moderately restores 1 ally's HP",
+                "Level": "34"
+            },
+            {
+                "Skill_name": "Magarula",
+                "Cost": "16 SP",
+                "Effect": "Deals medium Wind damage to all foes",
+                "Level": "40"
+            },
+            {
+                "Skill_name": "Wind Boost",
+                "Cost": "Passive",
+                "Effect": "Strengthens Wind attacks by 25%",
+                "Level": "44"
+            },
+            {
+                "Skill_name": "Wind Break",
+                "Cost": "15 SP",
+                "Effect": "Nullifies 1 foe's Wind resistance (for 3 turns)",
+                "Level": "49"
+            },
+            {
+                "Skill_name": "Garudyne",
+                "Cost": "12 SP",
+                "Effect": "Deals heavy Wind damage to 1 foe",
+                "Level": "53"
+            },
+            {
+                "Skill_name": "Masukukaja",
+                "Cost": "24 SP",
+                "Effect": "Increases party's Hit/Evasion rate for 3 turns",
+                "Level": "60"
+            },
+            {
+                "Skill_name": "Magarudyne",
+                "Cost": "22 SP",
+                "Effect": "Deals heavy Wind damage to all foes",
+                "Level": "64"
+            },
+            {
+                "Skill_name": "Brave Blade",
+                "Cost": "20% HP",
+                "Effect": "Deals severe Phys damage to 1 foe",
+                "Level": "69"
+            },
+            {
+                "Skill_name": "Wind Amp",
+                "Cost": "Passive",
+                "Effect": "Strengthens Wind attacks by 50%",
+                "Level": "73"
+            },
+            {
+                "Skill_name": "Youthful Wund",
+                "Cost": "25 SP",
+                "Effect": "Moderately restores party's HP and raises Hit/Evasion rate for 3 turns ",
+                "Level": "Maxed SL Winter Event"
+            }
+        ]
+    },
+    {
+        "Name": "Orobas",
+        "Arcana": "Magician",
+        "Level": "8",
+        "Stats": {
+            "Strength": "4",
+            "Magic": "10",
+            "Endurance": "6",
+            "Agility": "7",
+            "Luck": "4"
+        },
+        "Inherit": "Fire",
+        "Reflects": "None",
+        "Absorbs": "None",
+        "Block": "None",
+        "Resists": "Fire",
+        "Weak": "Ice",
+        "Skills": [{
+                "Skill_name": "Agi",
+                "Cost": "4 SP",
+                "Effect": "Deals light Fire damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Hysterical Slap",
+                "Cost": "9% HP",
+                "Effect": "Deals light Phys damage to 1 foe with a chance of Rage",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Dekaja",
+                "Cost": "10 SP",
+                "Effect": "Nullifies stat bonuses on all foes",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Dodge Ice",
+                "Cost": "Passive",
+                "Effect": "Doubles evasion rate against Ice attacks",
+                "Level": "10"
+            },
+            {
+                "Skill_name": "Resist Dizzy",
+                "Cost": "Passive",
+                "Effect": "Reduces chance of being Dizzy",
+                "Level": "11"
+            },
+            {
+                "Skill_name": "Sharp Student",
+                "Cost": "Passive",
+                "Effect": "Lowers odds of sustaining crit dmg",
+                "Level": "12"
+            }
+        ]
+    },
+    {
+        "Name": "Jack_Frost",
+        "Arcana": "Magician",
+        "Level": "16",
+        "Stats": {
+            "Strength": "10",
+            "Magic": "14",
+            "Endurance": "12",
+            "Agility": "11",
+            "Luck": "8"
+        },
+        "Inherit": "Ice",
+        "Reflects": "None",
+        "Absorbs": "None",
+        "Block": "Ice",
+        "Resists": "None",
+        "Weak": "Fire",
+        "Skills": [{
+                "Skill_name": "Mabufu",
+                "Cost": "10 SP",
+                "Effect": "Deals light Ice damage to all foes",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Ice Break",
+                "Cost": "15 SP",
+                "Effect": "Nullifies 1 foe's Ice resistance (for 3 turns)",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Me Patra",
+                "Cost": "6 SP",
+                "Effect": "Dispels Confusion, Fear, and Rage (party)",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Ice Boost",
+                "Cost": "Passive",
+                "Effect": "Strengthens Ice attacks by 25%",
+                "Level": "18"
+            },
+            {
+                "Skill_name": "Bufula",
+                "Cost": "8 SP",
+                "Effect": "Deals medium Ice damage to 1 foe",
+                "Level": "19"
+            },
+            {
+                "Skill_name": "Dodge Fire",
+                "Cost": "Passive",
+                "Effect": "Doubles evasion rate against Fire attacks",
+                "Level": "20"
+            },
+            {
+                "Skill_name": "Mind Charge",
+                "Cost": "15 SP",
+                "Effect": "Next magical attack will be 250% greater in power",
+                "Level": "25"
+            }
+        ]
+    },
+    {
+        "Name": "Hua Po",
+        "Arcana": "Magician",
+        "Level": "25",
+        "Stats": {
+            "Strength": "14",
+            "Magic": "21",
+            "Endurance": "15",
+            "Agility": "17",
+            "Luck": "15"
+        },
+        "Inherit": "Fire",
+        "Reflects": "None",
+        "Absorbs": "None",
+        "Block": "Fire",
+        "Resists": "None",
+        "Weak": "Ice",
+        "Skills": [{
+                "Skill_name": "Agilao",
+                "Cost": "8 SP",
+                "Effect": "Deals medium Fire damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Rakukaja",
+                "Cost": "12 SP",
+                "Effect": "Increases 1 ally's Defense for 3 turns",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Re patra",
+                "Cost": "3 SP",
+                "Effect": "Recovers 1 ally from Knockdown or Dizzy status",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Fire Break",
+                "Cost": "15 SP",
+                "Effect": "Nullifies 1 foe's Fire resistance (for 3 turns)",
+                "Level": "26"
+            },
+            {
+                "Skill_name": "Makajam",
+                "Cost": "5 SP",
+                "Effect": "Silences 1 foe (40% chance)",
+                "Level": "27"
+            },
+            {
+                "Skill_name": "Dodge Ice",
+                "Cost": "Passive",
+                "Effect": "Doubles evasion rate against Ice attacks",
+                "Level": "30"
+            },
+            {
+                "Skill_name": "Fire Boost",
+                "Cost": "Passive",
+                "Effect": "Strengthens Fire attacks by 25%",
+                "Level": "30"
+            }
+        ]
+    },
+    {
+        "Name": "Pyro Jack",
+        "Arcana": "Magician",
+        "Level": "32",
+        "Stats": {
+            "Strength": "16",
+            "Magic": "26",
+            "Endurance": "19",
+            "Agility": "22",
+            "Luck": "20"
+        },
+        "Inherit": "Fire",
+        "Reflects": "None",
+        "Absorbs": "Fire",
+        "Block": "None",
+        "Resists": "None",
+        "Weak": "Ice",
+        "Skills": [{
+                "Skill_name": "Agilao",
+                "Cost": "8 SP",
+                "Effect": "Deals medium Fire damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Tarunda",
+                "Cost": "12 SP",
+                "Effect": "Decreases 1 foe's Attack for 3 turns",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Marakukaja",
+                "Cost": "24 SP",
+                "Effect": "Increases party's Defense for 3 turns",
+                "Level": "34"
+            },
+            {
+                "Skill_name": "Maragion",
+                "Cost": "16 SP",
+                "Effect": "Deals medium Fire damage to all foes",
+                "Level": "36"
+            },
+            {
+                "Skill_name": "Auto-Rakukaja",
+                "Cost": "Passive",
+                "Effect": "Automatic Rakukaja at the start of battle",
+                "Level": "37"
+            },
+            {
+                "Skill_name": "Resist Ice",
+                "Cost": "Passive",
+                "Effect": "Reduces damage from Ice attacks",
+                "Level": "38"
+            }
+        ]
+    },
+    {
+        "Name": "Dis",
+        "Arcana": "Magician",
+        "Level": "39",
+        "Stats": {
+            "Strength": "25",
+            "Magic": "31",
+            "Endurance": "24",
+            "Agility": "26",
+            "Luck": "21"
+        },
+        "Inherit": "Fire",
+        "Reflects": "Fire",
+        "Absorbs": "None",
+        "Block": "None",
+        "Resists": "None",
+        "Weak": "None",
+        "Skills": [{
+                "Skill_name": "Maragion",
+                "Cost": "16 SP",
+                "Effect": "Deals medium Fire damage to all foes.",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Diarama",
+                "Cost": "6 SP",
+                "Effect": "Moderately restores 1 ally's HP",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Dekunda",
+                "Cost": "10 SP",
+                "Effect": "Nullifies stat penalties on party",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Dodge Ice",
+                "Cost": "Passive",
+                "Effect": "Doubles evasion rate against Ice attacks",
+                "Level": "41"
+            },
+            {
+                "Skill_name": "Masukunda",
+                "Cost": "24 SP",
+                "Effect": "Decreases all foes' Hit/Evasion rate for 3 turns",
+                "Level": "42"
+            },
+            {
+                "Skill_name": "Agidyne",
+                "Cost": "12 SP",
+                "Effect": "Deals heavy Fire damage to 1 foe",
+                "Level": "43"
+            },
+            {
+                "Skill_name": "Mind Charge",
+                "Cost": "15 SP",
+                "Effect": "Next magical attack will be 250% greater in power",
+                "Level": "44"
+            }
+        ]
+    },
+    {
+        "Name": "Rangda",
+        "Arcana": "Magician",
+        "Level": "47",
+        "Stats": {
+            "Strength": "24",
+            "Magic": "37",
+            "Endurance": "30",
+            "Agility": "25",
+            "Luck": "32"
+        },
+        "Inherit": "Fire",
+        "Reflects": "Physical",
+        "Absorbs": "None",
+        "Block": "None",
+        "Resists": "None",
+        "Weak": "Ice",
+        "Skills": [{
+                "Skill_name": "Maragion",
+                "Cost": "16 SP",
+                "Effect": "Deals medium Fire damage to all foes",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Tentarafoo",
+                "Cost": "12 SP",
+                "Effect": "Confuses all foes (30% chance)",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Agidyne",
+                "Cost": "12 SP",
+                "Effect": "Deals heavy Fire damage to 1 foe",
+                "Level": "49"
+            },
+            {
+                "Skill_name": "Dodge Ice",
+                "Cost": "Passive",
+                "Effect": "Doubles evasion rate against Ice attacks",
+                "Level": "50"
+            },
+            {
+                "Skill_name": "Mustard Bomb",
+                "Cost": "16% HP",
+                "Effect": "Deals medium Phys damage to all foes with a chance of Enervation",
+                "Level": "51"
+            },
+            {
+                "Skill_name": "Repel Physical",
+                "Cost": "Passive",
+                "Effect": "Repels Phys attacks",
+                "Level": "55"
+            }
+        ]
+    },
+    {
+        "Name": "Jinn",
+        "Arcana": "Magician",
+        "Level": "62",
+        "Stats": {
+            "Strength": "37",
+            "Magic": "51",
+            "Endurance": "39",
+            "Agility": "39",
+            "Luck": "28"
+        },
+        "Inherit": "Fire",
+        "Reflects": "None",
+        "Absorbs": "Fire",
+        "Block": "None",
+        "Resists": "None",
+        "Weak": "Lightning",
+        "Skills": [{
+                "Skill_name": "Agidyne",
+                "Cost": "12 SP",
+                "Effect": "Deals heavy Fire damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Foolish Whisper",
+                "Cost": "12 SP",
+                "Effect": "Silences all foes (30% chance)",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Resist Physical",
+                "Cost": "Passive",
+                "Effect": "Reduces damage from Phys attacks",
+                "Level": "65"
+            },
+            {
+                "Skill_name": "Fire Boost",
+                "Cost": "Passive",
+                "Effect": "Strengthens Fire attacks by 25%",
+                "Level": "66"
+            },
+            {
+                "Skill_name": "Null Physical",
+                "Cost": "Passive",
+                "Effect": "Become immune to Phys attacks",
+                "Level": "67"
+            },
+            {
+                "Skill_name": "Valiant Dance",
+                "Cost": "12 SP",
+                "Effect": "Enrages all foes (30% chance)",
+                "Level": "68"
+            }
+        ]
+    },
+    {
+        "Name": "Surt",
+        "Arcana": "Magician",
+        "Level": "69",
+        "Stats": {
+            "Strength": "41",
+            "Magic": "54",
+            "Endurance": "39",
+            "Agility": "40",
+            "Luck": "40"
+        },
+        "Inherit": "Fire",
+        "Reflects": "Fire",
+        "Absorbs": "None",
+        "Block": "Wind",
+        "Resists": "None",
+        "Weak": "Ice",
+        "Skills": [{
+                "Skill_name": "Agidyne",
+                "Cost": "12 SP",
+                "Effect": "Deals heavy Fire damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Deathbound",
+                "Cost": "20% HP",
+                "Effect": "Deals heavy Phys damage to all foes",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "High Counter",
+                "Cost": "Passive",
+                "Effect": "20% chance of reflecting Phys attacks",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Maragidyne",
+                "Cost": "22 SP",
+                "Effect": "Deals heavy Fire damage to all foes",
+                "Level": "71"
+            },
+            {
+                "Skill_name": "Ragnarok",
+                "Cost": "48 SP",
+                "Effect": "Deals severe Fire damage to 1 foe",
+                "Level": "74"
+            },
+            {
+                "Skill_name": "Fire Amp",
+                "Cost": "Passive",
+                "Effect": "Strengthens Fire attacks by 50%",
+                "Level": "75"
+            },
+            {
+                "Skill_name": "Null Ice",
+                "Cost": "Passive",
+                "Effect": "Become immune to Ice attacks",
+                "Level": "76"
+            }
+        ]
+    },
+    {
+        "Name": "Mada",
+        "Arcana": "Magician",
+        "Level": "78",
+        "Stats": {
+            "Strength": "45",
+            "Magic": "63",
+            "Endurance": "52",
+            "Agility": "38",
+            "Luck": "43"
+        },
+        "Inherit": "Fire",
+        "Reflects": "None",
+        "Absorbs": "Fire",
+        "Block": "None",
+        "Resists": "None",
+        "Weak": "Ice",
+        "Skills": [{
+                "Skill_name": "Agidyne",
+                "Cost": "12 SP",
+                "Effect": "Deals heavy Fire damage to 1 foe",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Fire Boost",
+                "Cost": "Passive",
+                "Effect": "Strengthens Fire attacks by 25%",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Foolish Whisper",
+                "Cost": "12 SP",
+                "Effect": "Silences all foes (30% chance)",
+                "Level": "Innate"
+            },
+            {
+                "Skill_name": "Maragidyne",
+                "Cost": "22 SP",
+                "Effect": "Deals heavy Fire damage to all foes",
+                "Level": "81"
+            },
+            {
+                "Skill_name": "Evade Ice",
+                "Cost": "Passive",
+                "Effect": "Triples evasion rate against Ice attacks",
+                "Level": "82"
+            },
+            {
+                "Skill_name": "Ailment Boost",
+                "Cost": "Passive",
+                "Effect": "All status ailment attacks are 1.5 times more effective",
+                "Level": "83"
+            },
+            {
+                "Skill_name": "Fire Amp",
+                "Cost": "Passive",
+                "Effect": "Strengthens Fire attacks by 50%",
+                "Level": "84"
+            }
+        ]
+    }
+]

@@ -1,0 +1,252 @@
+{
+    "04":{
+        "01": {
+            "date": "Tuesday Novermber, 1st",
+            "weather": "Rainy",
+            "event": {
+                "1": "You can buy book 'The Final Lesson' for 1500 yen.",
+                "2": "You can make lunch for tomorrow. Pick 'Mix and Cool Simultaneously'"
+            },
+            "fusion": "None"
+        },
+        "02": {
+            "date": "Wednesday Novermber, 2nd",
+            "weather": "Cloudy",
+            "event": {
+                "1": "There's an iced coffee in the fridge (you will go to bed early)."
+            },
+            "fusion": "Use the Persona Cerberus in fusion = Bonus stats, Samarecarm added."
+        },
+        "03": {
+            "date": "Thursday Novermber, 3rd",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Bonus S. Link EXP, Skill change."
+        },
+        "04": {
+            "date": "Friday Novermber, 4th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "Evening time not available.",
+                "2": "Someone appeared on Midnight Channel."
+            },
+            "fusion": "Bonus stats."
+        },
+        "05": {
+            "date": "Saturday Novermber, 5th",
+            "weather": "Rainy",
+            "event": {
+                "1": "All day time not available.",
+                "2": "Nanako is missing."
+            },
+            "fusion": "none"
+        },
+        "06": {
+            "date": "Sunday Novermber, 6th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "07": {
+            "date": "Monday Novermber, 7th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Skill change."
+        },
+        "08": {
+            "date": "Tuesday Novermber, 8th",
+            "weather": "Rainy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Create the Persona Daisoujou = Mind Charge added."
+        },
+        "09": {
+            "date": "Wednesday Novermber, 9th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Skill change."
+        },
+        "10": {
+            "date": "Thursday Novermber, 10th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "11": {
+            "date": "Friday Novermber, 11st",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Bonus stats."
+        },
+        "12": {
+            "date": "Saturday Novermber, 12nd",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "Quest 50: Revenge of Riddle Senpai! (Requested by funky student in Classroom Building 3F). Answer: 'Group B.', 'The way they're drawn.', 'Promethium'., 'Need.'"
+            },
+            "fusion": "Use a Persona of the Magician Arcana in fusion = Bonus Elec skill, S. Link EXP."
+        },
+        "13": {
+            "date": "Sunday Novermber, 13rd",
+            "weather": "Sunny",
+            "event": {
+                "1": "Shopping program: Reisen Brace x 1 + Diet Food x 2 = 19800 yen or Nice Shoes x 1 + Red Battlesuit x 1 = 19800 yen."
+            },
+            "fusion": "Bonus stats, skill change."
+        },
+        "14": {
+            "date": "Monday Novermber, 14th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "15": {
+            "date": "Tuesday Novermber, 15th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Create the Persona Siegfried = Enduring Soul added, Bonus stats."
+        },
+        "16": {
+            "date": "Wednesday Novermber, 16th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "17": {
+            "date": "Thursday Novermber, 17th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Quest 40: Experiments in Telepathy, Part 2 (Requested by older twin at Shopping District, South)."
+            },
+            "fusion": "None"
+        },
+        "18": {
+            "date": "Friday Novermber, 18th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Bonus stats."
+        },
+        "19": {
+            "date": "Saturday Novermber, 19th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "Midterms, day five"
+            },
+            "fusion": "Create the Persona Nebiros = Ali Dance added, Bonus S. Link EXP."
+        },
+        "20": {
+            "date": "Sunday Novermber, 20th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "Shopping program: Angel Skirt x 1 + Diet Food x 2 = 59800 yen or Soma x 1 + Amrita Soda x 4 = 19800 yen.",
+                "2": "The fog will set in tonight, so you have to watch Midnight Channel."
+            },
+            "fusion": "Bonus stats."
+        },
+        "21": {
+            "date": "Monday Novermber, 21th",
+            "weather": "Sunny",
+            "event": {
+                "1": "After school time not available."
+            },
+            "fusion": "None."
+        },
+        "22": {
+            "date": "Tuesday Novermber, 22th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "Quest 43: The Girl on the Rooftop, Part 2 (Requested by Male student in your Class 2-2).",
+                "2": "Quest 44: Desk Refurbishing, Part 4 (Requested by Homely student in Practice Building, 2F).",
+                "3": "Quest 45: Acquire an Old Ore (Requested by Male student in Practice Building, 1F).",
+                "4": "Quest 46: Acquire a Modest Lamp (Requested by Refreshed old man at Riverbank the of Samegawa Flood Plain)."
+            },
+            "fusion": "None"
+        },
+        "23": {
+            "date": "Wednesday Novermber, 23th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Yosuke will call to hang out. If you decline, you can make a Social Link with Hisano."
+            },
+            "fusion": "None."
+        },
+        "24": {
+            "date": "Thursday Novermber, 24th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Create the Persona Kartikeya = Angelic Grace added."
+        },
+        "25": {
+            "date": "Friday Novermber, 25th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "26": {
+            "date": "Saturday Novermber, 26th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Create a Persona of the Magician Arcana = Marakukaja added."
+        },
+        "27": {
+            "date": "Sunday Novermber, 27th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "No Shopping program."
+            },
+            "fusion": "None"
+        },
+        "28": {
+            "date": "Monday Novermber, 28th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Your second term finals begins today and continue until the weekend.",
+                "2": "Finals, day one"
+            },
+            "fusion": "None"
+        },
+        "29": {
+            "date": "Tuesday Novermber, 29th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Finals, day two"
+            },
+            "fusion": "None"
+        },
+        "30": {
+            "date": "Wednesday Novermber, 30th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Finals, day three"
+            },
+            "fusion": "None"
+        }
+    }
+}

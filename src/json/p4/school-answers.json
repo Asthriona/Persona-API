@@ -1,0 +1,518 @@
+{
+    "4/14": {
+        "1":{
+            "q": "What is the year before 1 AD called?",
+            "a": "1 BC"
+        }
+    },
+    "4/18": {
+        "1":{
+            "q": "The word 'alphabet' comes from the word 'alpha' and what other one?",
+            "a": "Beta"
+        }
+    },
+    "4/20": {
+        "1":{
+            "q": "How many parts are there in Murakami’s 'The Wind-Up Bird Chronicle?'",
+            "a": "Three"
+        }
+    },
+    "4/23": {
+        "1":{
+            "q": "What was the first economic bubble incident in the world?",
+            "a": "Tulip mania"
+        }
+    },
+    "4/25": {
+        "1":{
+            "q": "What’s it called when you gain more muscle after getting sore through exercise?",
+            "a": "Overcompensation"
+        }
+    },
+    "4/26": {
+        "1":{
+            "q": "Which property of whole numbers doesn’t exist?",
+            "a": "Marriage numbers"
+        }
+    },
+    "4/30": {
+        "1":{
+            "q": "What is the greatest canyon in the solar system?",
+            "a": "Valles Marineris"
+        }
+    },
+    "5/7": {
+        "1":{
+            "q": "Do you know how Soseki Natsume translated the English phrase 'I love you' into Japanese?",
+            "a": "'The moon is beautiful, isn’t it?'"
+        }
+    },
+    "5/9": {
+        "1":{
+            "q": "What is it called when muscles grow after exercise?",
+            "a": "Overcompensation"
+        },
+        "2":{
+            "q": "What is the year before 1 A.D. called?",
+            "a": "1 B.C."
+        }
+    },
+    "5/10": {
+        "1":{
+            "q": "Which of these types of numbers does not exist?",
+            "a": "Marriage numbers"
+        },
+        "2":{
+            "q": "Who translated 'I love you' as 'The moon is beautiful, isn’t it?'",
+            "a": "Soseki Natsume"
+        }
+    },
+    "5/11": {
+        "1":{
+            "q": "Who said 'As soon as laws are necessary for men, they are no longer fit for freedom?'",
+            "a": "Pythagoras"
+        },
+        "2":{
+            "q": "Which of the following is the highest mountain in the solar system?",
+            "a": "Olympus Mons"
+        }
+    },
+    "5/26": {
+        "1":{
+            "q": "Tell me how the theory that the pyramids were built by slaves was disproven!",
+            "a": "Attendance logs"
+        }
+    },
+    "6/8": {
+        "1":{
+            "q": "What sport is 'heikin-dai'?",
+            "a": "Balance Beam"
+        }
+    },
+    "6/13": {
+        "1":{
+            "q": "Tell me what kind of exercise builds up lactic acid in the muscles!",
+            "a": "Anaerobics"
+        }
+    },
+    "6/15": {
+        "1":{
+            "q": "Tell me what morale is!",
+            "a": "Cheerfulness of a group"
+        }
+    },
+    "6/20": {
+        "1":{
+            "q": "What period did Japan first implement bonus pay?",
+            "a": "Meiji"
+        }
+    },
+    "6/27": {
+        "1":{
+            "q": "What is identity?",
+            "a": "Individuality"
+        }
+    },
+    "6/30": {
+        "1":{
+            "q": "Which one of these is the name of a real river?",
+            "a": "Pis Pis River"
+        }
+    },
+    "7/4": {
+        "1":{
+            "q": "Who said this: 'Man is but a reed, the most feeble thing in nature; but he is a thinking reed'?",
+            "a": "Pascal"
+        }
+    },
+    "7/7": {
+        "1":{
+            "q": "What is the beginning of 'Gakumon no Susume' a reference too?",
+            "a": "The U.S. Declaration of Independence"
+        }
+    },
+    "7/13": {
+        "1":{
+            "q": "What is the medical term for brainfreeze?",
+            "a": "Sphenopalatine ganglioneuralgia"
+        }
+    },
+    "7/14": {
+        "1":{
+            "q": "Which famous Heian-era monk famously used a wrong version of this specific kanji?",
+            "a": "Kuukai"
+        }
+    },
+    "7/15": {
+        "1":{
+            "q": "Which line can a typhoon never cross?",
+            "a": "The equator"
+        }
+    },
+    "7/16": {
+        "1":{
+            "q": "Tell me what makes the king of hearts look different from the other kings in a standard deck of cards?",
+            "a": "He has no mustache."
+        }
+    },
+    "7/19": {
+        "1":{
+            "q": "What is morale?",
+            "a": "Cheerfulness in a group"
+        },
+        "2":{
+            "q": "What sport is 'heikin-dai'?",
+            "a": "Balance Beam"
+        }
+    },
+    "7/20": {
+        "1":{
+            "q": "Which kanji did Kobo make a mistake on?",
+            "a": "The first option"
+        },
+        "2":{
+            "q": "In which period did Japan first implement bonus pay?",
+            "a": "Meiji"
+        }
+    },
+    "7/21": {
+        "1":{
+            "q": "Which king in a deck of cards is missing a mustache?",
+            "a": "King of hearts"
+        },
+        "2":{
+            "q": "Who said this: 'Man is but a reed, the most feeble thing in nature; but he is a thinking reed'?",
+            "a": "Pascal"
+        }
+    },
+    "7/22": {
+        "1":{
+            "q": "Which one of these is the name of a real river?",
+            "a": "Pis Pis River"
+        },
+        "2":{
+            "q": "What is the beginning of 'Gakumon no Susume' a reference to?",
+            "a": "The U.S. Declaration of Independence"
+        }
+    },
+    "9/1": {
+        "1":{
+            "q": "'Venison' is the meat of what animal?",
+            "a": "All of the above"
+        }
+    },
+    "9/5": {
+        "1":{
+            "q": "Which of the following is a kigo for fall?",
+            "a": "Brisk"
+        }
+    },
+    "9/17": {
+        "1":{
+            "q": "How short was history’s shortest war?",
+            "a": "40 minutes"
+        }
+    },
+    "9/20": {
+        "1":{
+            "q": "What do you call somebody who’s between ninety and one hundred years old?",
+            "a": "A nonagenarian"
+        }
+    },
+    "9/28": {
+        "1":{
+            "q": "What part of the human body has an apple in it?",
+            "a": "Throat"
+        }
+    },
+    "10/4": {
+        "1":{
+            "q": "Which of these sports also uses an anchor?",
+            "a": "Tug-of-War"
+        }
+    },
+    "10/5": {
+        "1":{
+            "q": "Where would you find Japan on a map made in a foreign country?",
+            "a": "The right edge"
+        }
+    },
+    "10/8": {
+        "1":{
+            "q": "Tell me what bird’s name means 'coward'in English!",
+            "a": "Chicken"
+        }
+    },
+    "10/11": {
+        "1":{
+            "q": "What did Napoleon have invented?",
+            "a": "Glass jars"
+        }
+    },
+    "10/12": {
+        "1":{
+            "q": "Do you know what vegetable was used to make the first jack-o-lantern?",
+            "a": "Turnips"
+        }
+    },
+    "10/13": {
+        "1":{
+            "q": "What kind of fish was I just talking about?",
+            "a": "Ojisan"
+        }
+    },
+    "10/14": {
+        "1":{
+            "q": "What part of the body contains the 'Adam’s apple'?",
+            "a": "Throat"
+        },
+        "2":{
+            "q": "Where would you find Japan on a map made in a foreign country?",
+            "a": "The right edge"
+        }
+    },
+    "10/15": {
+        "1":{
+            "q": "How short was history’s shortest war?",
+            "a": "40 minutes"
+        },
+        "2":{
+            "q": "'Venison' is the meat of what animal?",
+            "a": "All of the above"
+        }
+    },
+    "10/17": {
+        "1":{
+            "q": "What is the Japanese name for 'panda'?",
+            "a": "Black and white bears"
+        },
+        "2":{
+            "q": "Which bird is falsely known for being cowardly in the English phrase 'to stick one’s head in the sand'?",
+            "a": "Ostrich"
+        }
+    },
+    "10/18": {
+        "1":{
+            "q": "What was the name of the Wasan textbook that came out in the Edo period?",
+            "a": "Math Girl"
+        },
+        "2":{
+            "q": "What did Napoleon have invented?",
+            "a": "Glass jars"
+        }
+    },
+    "10/19": {
+        "1":{
+            "q": "Which season is the adjective 'brisk' a kigo for?",
+            "a": "Fall"
+        },
+        "2":{
+            "q": "What is 'Dragon’s Blood'?",
+            "a": "Plant resin"
+        }
+    },
+    "11/01": {
+        "1":{
+            "q": "Tell me what the 'figure' in 'figure skating' refers to!",
+            "a": "Geometric shapes"
+        }
+    },
+    "11/04": {
+        "1":{
+            "q": "Who can tell me what kind of bird a kanko-dori is??",
+            "a": "A cuckoo"
+        }
+    },
+    "11/07": {
+        "1":{
+            "q": "Which country do you think the South Pole belongs to?",
+            "a": "No country"
+        }
+    },
+    "11/11": {
+        "1":{
+            "q": "What desert is the Welwitschia from?",
+            "a": "Namib"
+        }
+    },
+    "11/17": {
+        "1":{
+            "q": "Alcohol has to do with the roots of the word 'bridal.' Do you know how?",
+            "a": "Bride ale"
+        }
+    },
+    "11/22": {
+        "1":{
+            "q": "Do you know what an 'atlas' is?",
+            "a": "A book of maps"
+        }
+    },
+    "11/24": {
+        "1":{
+            "q": "0, 1, 1, 2, 3, 5, 8, 13... What is this sequence called?",
+            "a": "Fibonacci sequence"
+        }
+    },
+    "11/25": {
+        "1":{
+            "q": "There are over 130 ancient pyramids in Egypt, but do you know who’s buried in the biggest one?",
+            "a": "Khufu"
+        }
+    },
+    "11/26": {
+        "1":{
+            "q": "Which of these is considered a 'rice cake'?",
+            "a": "Mochi"
+        }
+    },
+    "11/28": {
+        "1":{
+            "q": "What does French food stem from?",
+            "a": "Italian Food"
+        },
+        "2":{
+            "q": "What does the 'figure' in 'figure skating' refer to?",
+            "a": "Geometric shapes"
+        }
+    },
+    "11/29": {
+        "1":{
+            "q": "Who is buried in the biggest pyramid in Egypt?",
+            "a": "Khufu"
+        },
+        "2":{
+            "q": "What is a book of maps called?",
+            "a": "Atlas"
+        }
+    },
+    "11/30": {
+        "1":{
+            "q": "What word has the words 'bride ale' as its roots?",
+            "a": "Bridal"
+        },
+        "2":{
+            "q": "What kind of bird is a 'kanko-dori'?",
+            "a": "A cuckoo"
+        }
+    },
+    "12/1": {
+        "1":{
+            "q": "Which country does the South Pole belong to?",
+            "a": "No country"
+        },
+        "2":{
+            "q": "0, 1, 1, 2, 3, 5, 8, 13... What is this sequence called?",
+            "a": "The Fibonacci sequence"
+        }
+    },
+    "12/2": {
+        "1":{
+            "q": "What desert is the Welwitschia found in?",
+            "a": "Namib"
+        },
+        "2":{
+            "q": "Which of these is considered a 'rice cake'?",
+            "a": "Mochi"
+        }
+    },
+    "12/9": {
+        "1":{
+            "q": "Do you know what color a fuzzy-wuzzy polar bear’s fur really is?",
+            "a": "Transparent"
+        }
+    },
+    "12/10": {
+        "1":{
+            "q": "What determines whether a hair grows curly or straight?",
+            "a": "The cross-section"
+        }
+    },
+    "12/17": {
+        "1":{
+            "q": "Do you know the intent behind the phrase, 'Compassion is not for the good of others'?",
+            "a": "Compassion makes you look better"
+        }
+    },
+    "12/21": {
+        "1":{
+            "q": "Which Cleopatra is the one who was known as one of the three most beautiful women in the world?",
+            "a": "VII"
+        }
+    },
+    "1/10": {
+        "1":{
+            "q": "What are you supposed to put on top of a kagami mochi?",
+            "a": "An orange"
+        }
+    },
+    "1/14": {
+        "1":{
+            "q": "'Toso' is a traditional drink for the new year, but what does the name mean?",
+            "a": "Bury the demons"
+        }
+    },
+    "1/19": {
+        "1":{
+            "q": "In the Thai and Vietnamese zodiacs, which animal is used in place of the rabbit?",
+            "a": "Cat"
+        }
+    },
+    "1/25": {
+        "1":{
+            "q": "What color is the snow that falls in Europe in the spring?",
+            "a": "Red"
+        }
+    },
+    "1/30": {
+        "1":{
+            "q": "What’s the next unit of measurement up from a terabyte?",
+            "a": "Petabyte"
+        }
+    },
+    "2/1": {
+        "1":{
+            "q": "What color were the pyramids originally?",
+            "a": "White"
+        }
+    },
+    "2/6": {
+        "1":{
+            "q": "The word 'alphabet' comes from the words 'alpha' and what other one?",
+            "a": "Beta"
+        },
+        "2":{
+            "q": "How was the theory that the pyramids were built by slaves disproven?",
+            "a": "Attendance logs"
+        }
+    },
+    "2/7": {
+        "1":{
+            "q": "What drink name means 'bury demons'?",
+            "a": "Toso"
+        },
+        "2":{
+            "q": "What is the medical term for brainfreeze?",
+            "a": "Sphenopalatine ganglioneuralgia"
+        }
+    },
+    "2/8": {
+        "1":{
+            "q": "What is the Japanese zodiac equivalent to the 'cat' in the Thai and Vietnamese zodiacs?",
+            "a": "Rabbit"
+        },
+        "2":{
+            "q": "What vegetable was used to make the first jack-o’-lanterns?",
+            "a": "Turnips"
+        }
+    },
+    "2/9": {
+        "1":{
+            "q": "What color were the pyramids when they were first built?",
+            "a": "White"
+        },
+        "2":{
+            "q": "What gets mixed with snow in Europe that sometimes causes it to turn red?",
+            "a": "The Sahara Desert sand"
+        }
+    }
+}

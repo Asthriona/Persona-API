@@ -1,0 +1,266 @@
+{
+    "04":{
+        "01": {
+            "date": "Monday August, 1st",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "There's a Homerun Bar in the freezer. (No effect)"
+            },
+            "fusion": "Bonus Social Link EXP."
+        },
+        "02": {
+            "date": "Tuesday August, 2nd",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Use the Persona Samuel in fusion = Bonus stats, Skill change."
+        },
+        "03": {
+            "date": "Wednesday August, 3rd",
+            "weather": "Sunny",
+            "event": {
+                "1": "Call from Ai (relationship only)."
+            },
+            "fusion": "None"
+        },
+        "04": {
+            "date": "Thursday August, 4th",
+            "weather": "Sunny",
+            "event": {
+                "1": "You can buy 'Changing Careers' from the bookstore for 1500 yen."
+            },
+            "fusion": "Skill change."
+        },
+        "05": {
+            "date": "Friday August, 5th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Naoki Konishi will call you to hang out. (+Hanged Man, +Emperor)"
+            },
+            "fusion": "Skill change."
+        },
+        "06": {
+            "date": "Saturday August, 6th",
+            "weather": "Rainy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Use Orthrus and Yatagarasu in fusion = Null Exhaust added, Bonus Social Link EXP."
+        },
+        "07": {
+            "date": "Sunday August 7th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Shopping program: Paladin Armor + Longevity Pill x 2 for 20800 yen or Kitchen Knife + Myth-like Sword for 12800 yen."
+            },
+            "fusion": "Bonus Social Link EXP."
+        },
+        "08": {
+            "date": "Monday August, 8th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "Ai Ebihara will call you to hang out. (+ Moon, + Star, + Magician) If you decline, you still can make Social Link with Chie Satonaka or Yukio Amagi or Eri Minami."
+            },
+            "fusion": "None"
+        },
+        "09": {
+            "date": "Tuesday August, 9th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Quest 27 available: Acquire 3 Fashionable Dishes. (From the guy in front of the bookstore at Shopping District South)"
+            },
+            "fusion": "None"
+        },
+        "10": {
+            "date": "Wednesday August, 10th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Kou Ichijo will call you to come to your room. (Obtained 'The O-Cha Way' book, + Strength, + Justice) (If you decline, you still can make Social Link with Yukiko Amagi or Kanji Tatsumi."
+            },
+            "fusion": "Bonus Support skill."
+        },
+        "11": {
+            "date": "Thursday August, 11st",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Bonus stats."
+        },
+        "12": {
+            "date": "Friday August, 12nd",
+            "weather": "Rainy",
+            "event": {
+                "1": "Some of the activities in the evening is prohibited.",
+                "2": "Last day to finish Void Quest"
+            },
+            "fusion": "Bonus stats."
+        },
+        "13": {
+            "date": "Saturday August, 13rd",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "Evening time unavailable."
+            },
+            "fusion": "Create a Persona of the Death Arcana = Mediarama added, Bonus Social Link EXP."
+        },
+        "14": {
+            "date": "Sunday August, 14th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Shopping program: Wooden Bat + Longevity Pill x 2 for 14000 yen or Segaki Rice x 6 + Purifying Water x 4 for 8800 yen.",
+                "2": "Talk to Ryotaro Dojima, he'll give you 40000 yen if you get the highest score of final exams."
+            },
+            "fusion": "Bonus stats."
+        },
+        "15": {
+            "date": "Monday August, 15th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "Yosuke Hanamura will ask you to help out at Junes till Friday. (Earned 40000 yen, + Chariot, + Magician)"
+            },
+            "fusion": "None"
+        },
+        "16": {
+            "date": "Tuesday August, 16th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "17": {
+            "date": "Wednesday August, 17th",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "18": {
+            "date": "Thursday August, 18th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "19": {
+            "date": "Friday August, 19th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "20": {
+            "date": "Saturday August, 20th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Answer to Nanako Dojima: You look cute in it. (+ Justice)",
+                "2": "Answer to Rise Kujikawa: First choice (+ Lovers), Second choice (+ Chariot), Third choice. (+ Priestess)"
+            },
+            "fusion": "None"
+        },
+        "21": {
+            "date": "Sunday August, 21th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Ai Ebihara will call you to hang out (Obtained 'The Divine Way' book)",
+                "2": "Answer to Ai Ebihara: I wish to be getting closer to you. (+ Moon)",
+                "3": "The Sun Social Link may also call you instead of Ai. You will still receive the book but gain + Sun."
+            },
+            "fusion": "None"
+        },
+        "22": {
+            "date": "Monday August, 22th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "Quest 24 available: Bring him an Eternal Lamp. (From Refreshed old man at the Riverbank of Samegawa flood plain)",
+                "2": "Quest 28 available: Bring her a Leaf Pochette. (From Younger twin at the Riverbed of Samegawa flood plain)"
+            },
+            "fusion": "Skill Change"
+        },
+        "23": {
+            "date": "Tuesday August, 23th",
+            "weather": "Sunny",
+            "event": {
+                "1": "You will be asked to help Nanako Dojima with her homework for the next few nights. (+ Justice)"
+            },
+            "fusion": "Skill change."
+        },
+        "24": {
+            "date": "Wednesday August, 24th",
+            "weather": "Sunny",
+            "event": {
+                "1": "You can buy 'Man-God' book at the bookstore for 1200 yen.",
+                "2": "You help Nanako Dojima with her homework in the evening. (+ Magician, + Justice)"
+            },
+            "fusion": "Bonus Social Link EXP."
+        },
+        "25": {
+            "date": "Thursday August, 25th",
+            "weather": "Rainy",
+            "event": {
+                "1": "You help Nanako Dojima with her homework in the evening. (+ Chariot, + Justice, + Priestess)"
+            },
+            "fusion": "Bonus stats."
+        },
+        "26": {
+            "date": "Friday August, 26th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "Chie Satonaka will call you to hang out. (Chariot Rank improved) If you declined, you can still make Social Link with Chie Satonaka, Rise Kujikawa, Eri Minami, Yosuke Hanamura.",
+                "2": "You help Nanako Dojima with her homework in the evening.",
+                "3": "Answer to Nanako Dojima: No. (+ Justice)"
+            },
+            "fusion": "Skill change."
+        },
+        "27": {
+            "date": "Saturday August, 27th",
+            "weather": "Rainy",
+            "event": {
+                "1": "You help Nanako Dojima with her homework in the evening. (+ Emperor, + Lovers, + Justice)."
+            },
+            "fusion": "Create the Persona Rangda = Null Ice added."
+        },
+        "28": {
+            "date": "Sunday August, 28th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "Rise Kujikawa will call you to hang out (Lovers Rank improved).",
+                "2": "Shopping program: Thief Dagger + Longevity Pill x 2 for 20800 yen or Hell Magatama x 2 + Arc Magatama x 2 for 12800 yen.",
+                "3": "You help Nanako Dojima with her homework in the evening.",
+                "4": "Answer to Nanako Dojima: Male. (+ Justice)"
+            },
+            "fusion": "None"
+        },
+        "29": {
+            "date": "Monday August, 29th",
+            "weather": "Rainy",
+            "event": {
+                "1": "You will be working on your homework for the Daytime.",
+                "2": "It's the last evening you help Nanako Dojima with her homework.",
+                "3": "Answer to Nanako Dojima: It stopped raining by then. (+ Justice)"
+            },
+            "fusion": "None"
+        },
+        "30": {
+            "date": "Tuesday August, 30th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "There's a Junes original Shiokara in the fridge. (+ Courage)"
+            },
+            "fusion": "Skill change."
+        },
+        "31": {
+            "date": "Wednesday August, 31th",
+            "weather": "Sunny",
+            "event": {
+                "1": "All the day time unavailable."
+            },
+            "fusion": "None"
+        }
+    }
+}

@@ -1,0 +1,260 @@
+{
+    "04":{
+        "01": {
+            "date": "Thursday September, 1st",
+            "weather": "Sunny",
+            "event": {
+                "1": "Answer to Mr. Kondo: 1900. (+ Knowledge)",
+                "2": "After School time unavailable."
+            },
+            "fusion": "None"
+        },
+        "02": {
+            "date": "Friday September, 2nd",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Bonus Social Link EXP."
+        },
+        "03": {
+            "date": "Saturday September, 3rd",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Use a Persona of the Moon Arcana in fusion = Bonus Support skill, Bonus stats."
+        },
+        "04": {
+            "date": "Sunday September, 4th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Yukiko Amagi will call you to hang out (Priestess Rank improved). If you declined, you can make Social Link with Yosuke Hanamura or Chie Satonaka or Rise Kujikawa or Kanji Tatsumi or Hisano Kuroda (Death).",
+                "2": "Shopping program: Charm Drape + Heavy Soup x 2 for 21800 yen or Chest Key x 2 + Prize Sticker x 5 for 6800 yen.",
+                "3": "You can make lunch for tomorrow."
+            },
+            "fusion": "Skill change."
+        },
+        "05": {
+            "date": "Monday September, 5th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Answer to Mr. Hosoi: Sardine. (+ Knowledge)",
+                "2": "Quest 29 available: Experiments in Telepathy (From Older twin in Shopping District South).",
+                "3": "There's a left over slice of watermelon in the fridge.(No effect)"
+            },
+            "fusion": "Skill change."
+        },
+        "06": {
+            "date": "Tuesday September, 6th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Bonus stats."
+        },
+        "07": {
+            "date": "Wednesday September 7th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Some activities in the evening are prohibited."
+            },
+            "fusion": "Create the Persona Cu Chulainn = Null Elec added, Bonus stats."
+        },
+        "08": {
+            "date": "Thursday September, 8th",
+            "weather": "Sunny",
+            "event": {
+                "1": "You're going on a school trip for three days and two nights."
+            },
+            "fusion": "None"
+        },
+        "09": {
+            "date": "Friday September, 9th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Draw stick 1st time: Draw the farthest one to be King.",
+                "2": "Draw stick 2nd time: Draw the nearest one to be King.",
+                "3": "Rest on the lap.", 
+                "4": "Sit on the lap. (+ Chariot)",
+                "5": "get a hug. (+ Priestess)",
+                "6": "get a piggyback ride."
+            },
+            "fusion": "None"
+        },
+        "10": {
+            "date": "Saturday September, 10th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Answer to Nanako Dojima: Go with me next time. (+ Justice)"
+            },
+            "fusion": "None"
+        },
+        "11": {
+            "date": "Sunday September, 11st",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Shopping program: Fuuma Bundou + Heavy Soup x 2 for 27800 yen or Inaba Trout x 4 + Dry Ice x 2 for 6980 yen.",
+                "2": "You can make lunch for tomorrow."
+            },
+            "fusion": "None"
+        },
+        "12": {
+            "date": "Monday September, 12nd",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Evening time unavailable."
+            },
+            "fusion": "None"
+        },
+        "13": {
+            "date": "Tuesday September, 13rd",
+            "weather": "Sunny",
+            "event": {
+                "1": "There's a mushroom in the fridge. (+ Courage)"
+            },
+            "fusion": "Bonus stats."
+        },
+        "14": {
+            "date": "Wednesday September, 14th",
+            "weather": "Rainy",
+            "event": {
+                "1": "It's the first night Naoto Shirogane appeared on The Midnight Channel."
+            },
+            "fusion": "Use Hanuman and Hitokoto-Nushi in fusion = Arms Master added."
+        },
+        "15": {
+            "date": "Thursday September, 15th",
+            "weather": "Rainy",
+            "event": {
+                "1": "After School time unavailable.",
+                "2": "The night that Naoto Shirogane is kidnapped."
+            },
+            "fusion": "None"
+        },
+        "16": {
+            "date": "Friday September, 16th",
+            "weather": "Rainy",
+            "event": {
+                "1": "Collect info. about Naoto Shirogane: First, talk to the Female Student in the Practice Building 1F. Second, talk to the Police officer in Shopping District North. Third, talk to the others in the group for their opinions. Fourth, you have to talk to the Police officer again. That is all you can do today."
+            },
+            "fusion": "Skill change."
+        },
+        "17": {
+            "date": "Saturday September, 17th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Speak to the Police Officer in Shopping District South to finish the Naoto investigation.\nInvestigation conclusions: '...has an obsession with the case', 'they consider him a child'.",
+                "2": "Answer to Ms. Sofue: 'To make profits from spices' (+ knowledge)"
+            },
+            "fusion": "Use the Persona Leanan Sidhe in fusion = Bonus Ice skill, Bonus Social Link EXP."
+        },
+        "18": {
+            "date": "Sunday September, 18th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Shopping program: Reprisal Chain + Heavy Soup x 2 for 21800 yen or Soma + Purifying Water x 2 for 14800 yen."
+            },
+            "fusion": "Skill change."
+        },
+        "19": {
+            "date": "Monday September, 19th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "There's some fried dough in the fridge. (Nothing happen)"
+            },
+            "fusion": "None"
+        },
+        "20": {
+            "date": "Tuesday September, 20th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Answer to Mr. Kondo: Centenarians. (+ knowledge)",
+                "2": "Quest 30 available: Extracurricular Activities, Part 2 (From the teacher (Ms. Sofue) in Classroom Building 2F).",
+                "3": "You can buy 'Sensei's Friends' book at bookstore for 1500 yen."
+            },
+            "fusion": "None"
+        },
+        "21": {
+            "date": "Wednesday September, 21th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "You can make lunch: lots of milk"
+            },
+            "fusion": "Create the Persona Tam Lin = Amrita added, Bonus stats, Bonus Social Link EXP."
+        },
+        "22": {
+            "date": "Thursday September, 22th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Bonus Social Link EXP."
+        },
+        "23": {
+            "date": "Friday September, 23th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Today is holiday, you can make Social Link with Rise Kujikawa (Lovers) or Hisano Kuroda (Death) or Eri Minami (Temperance)."
+            },
+            "fusion": "None"
+        },
+        "24": {
+            "date": "Saturday September, 24th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "25": {
+            "date": "Sunday September, 25th",
+            "weather": "Sunny / Cloidy",
+            "event": {
+                "1": "Ai will call to hang out. "
+            },
+            "fusion": "None"
+        },
+        "26": {
+            "date": "Monday September, 26th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "Quest 34 available: A Test of Literary Memory (from the guy looking at the bookstore in Shopping District, South). Answer 4 questions: “Judo medalists' names”, “How one should live as a punk”, “2 pages per pest”, “Me”.",
+                "2": "You can make lunch: Strain it"
+            },
+            "fusion": "None"
+        },
+        "27": {
+            "date": "Tuesday September, 27th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Fusion Forecast: Skill change."
+        },
+        "28": {
+            "date": "Wednesday September, 28th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "Answer to Mr. Kondo: Hyperbole (+Expression, +Magician)."
+            },
+            "fusion": "Bonus stats."
+        },
+        "29": {
+            "date": "Thursday September, 29th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "You can make lunch for tomorrow: Flour, egg then panko."
+            },
+            "fusion": "None"
+        },
+        "30": {
+            "date": "Friday September, 30th",
+            "weather": "Rainy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Bonus S. Link EXP."
+        }
+    }
+}

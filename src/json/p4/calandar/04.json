@@ -1,0 +1,194 @@
+{
+    "04":{
+        "11": {
+            "date": "Monday April, 11th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "First day in Inaba",
+                "2": "Fried rice on the fridge (No effect)"
+            },
+            "fusion": "none"
+        },
+        "12": {
+            "date": "Tuesday April, 12th",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "... You calling me a loser? (+2 Courage)",
+                "2": "First school day"
+            },
+            "fusion": "none"
+        },
+        "13": {
+            "date": "Wednesday April, 13th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "+2 Knowledge",
+                "2": "First contact with Midnight Channel",
+                "3": "Saki Konishi appears on the news"
+            },
+            "fusion": "none"
+        },
+        "14": {
+            "date": "Thursday April, 14th",
+            "weather": "Rainy",
+            "event": {
+                "1": "When Jesus was born (+2 Knowledge)",
+                "2": "First time in TV World",
+                "3": "Are you guys ok? (+2 Understanding)"
+            },
+            "fusion": "none"
+        },
+        "15": {
+            "date": "Friday April, 15th",
+            "weather": "Rainy",
+            "event": {
+                "1": "I'm worried about Chie (+2 Understanding)",
+                "2": "Yukiko appears on the news",
+                "3": "A girl in a kimono appears blurry on Midnight Channel",
+                "4": "New message from Igor and Margaret at the Velvet Room",
+                "5": "Access to the game menu unlocked"
+            },
+            "fusion": "none"
+        },
+        "16": {
+            "date": "Saturday April, 16th",
+            "weather": "Rainy",
+            "event": {
+                "1": "Magician Social Link established",
+                "2": "Yukiko appears on Midnight Channel"
+            },
+            "fusion": "none"
+        },
+        "17": {
+            "date": "Sunday April, 17th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Unlocked Velvet Room",
+                "2": "Unlocked Central Shopping Distric",
+                "3": "First time in Yukiko's Castle. Talk to Teddie to get a free Revival Bead, 5 Peach Seed and 5 Soul Drop",
+                "4": "Fool Social Link established"
+            },
+            "fusion": "none"
+        },
+        "18": {
+            "date": "Monday April, 18th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Falling for me, huh? (Requieres Courage, only possible after second playtrough)",
+                "2": "Ask her straight out (Requieres Courage, only possible after second playtrough)",
+                "3": "Chariot Social Link established",
+                "4": "The. (+2 Knowledge)",
+                "5": "City map unlocked",
+                "6": "Quest 23: Who's the Riddle Master? available",
+                "7": "Talk to Teddie to get a free Goho-M"
+            },
+            "fusion": "Bonus stats"
+        },
+        "19": {
+            "date": "Tuesday April, 19th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "Sport clubs unlocked",
+                "2": "You can establish the Strength Social Link"
+            },
+            "fusion": "Use a Persona of the Magician Arcana in fusion, Zio added"
+        },
+        "20": {
+            "date": "Wednesday April, 20th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Millennium (+1 Expression, +2 Magician)",
+                "2": "Available ''A Great Man'' book"
+            },
+            "fusion": "None"
+        },
+        "21": {
+            "date": "Thursday April, 21st",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Create the Persona Archangel, bonus stats, Agi added"
+        },
+        "22": {
+            "date": "Friday April, 22nd",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "23": {
+            "date": "Saturday April, 23rd",
+            "weather": "Cloudy",
+            "event": {
+                "1": "They were by the riverside. (+1 Expression, +2 Magician)",
+                "2": "Unlocked part-time jobs"
+            },
+            "fusion": "Use Ghoul and Orobas in fusion, Rakunda added"
+        },
+        "24": {
+            "date": "Sunday April, 24th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Received a call from Kou to hang around (+2 Strength Social Link), if you decide to decline his offer, you can hang around with Yosuke Hanamura"
+            },
+            "fusion": "Skill added"
+        },
+        "25": {
+            "date": "Monday April, 25th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "8 AM (+2 Knowledge)",
+                "2": "Unlocked Cultural Clubs",
+                "3": "Food in the fridge to prepare lunch"
+            },
+            "fusion": "Use Orobas and Cu Sith in fusion, bonus stats, Media added"
+        },
+        "26": {
+            "date": "Thursday April, 26th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "It's a perfect number (+2 Chariot, +2 Expression)",
+                "2": "Red miso in the fridge (+ Courage)"
+            },
+            "fusion": "None"
+        },
+        "27": {
+            "date": "Wednesday April, 27th",
+            "weather": "Rainy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Bonus stats"
+        },
+        "28": {
+            "date": "Tuesday April, 28th",
+            "weather": "Rainy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Create the Persona Berith, Mabufu added"
+        },
+        "29": {
+            "date": "Friday April, 29th",
+            "weather": "Rainy",
+            "event": {
+                "1": "Holiday",
+                "2": "Last day to save Yukiko Amagi"
+            },
+            "fusion": "Bonus stats"
+        },
+        "30": {
+            "date": "Saturday April, 30th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Yukiko came back to school",
+                "2": "Mt. Olympus (+ Knowledge)",
+                "3": "After school time unavailable",
+                "4": "Fool Social Link increased"
+            },
+            "fusion": "Skill Change"
+        }
+    }
+}

@@ -1,0 +1,280 @@
+{
+    "07":{
+        "01": {
+            "date": "Friday Jully, 1st",
+            "weather": "Rainy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Bonus stats"
+        },
+        "02": {
+            "date": "Saturday Jully, 2nd",
+            "weather": "Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "03": {
+            "date": "Sunday Jully, 3rd",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Yumi Ozawa will call you to hang out (+ Sun and Strength)",
+                "2": "Shopping program : Armada Bustier + Giant Candy x 2 for 20800 yen or Peach Seed x 30 + Soul Drop x 10 for 2980 yen",
+                "3": "Quest 22 available: Acquire Hard Boots (From the guy in front of the bookstore at Shopping District South)"
+            },
+            "fusion": "None"
+        },
+        "04": {
+            "date": "Monday Jully, 4th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Answer: Inductive reasoning (+ Magician and + Expression)",
+                "2": "There's a bowl of homemade pudding in the fridge (+Courage)"
+            },
+            "fusion": "Skill change"
+        },
+        "05": {
+            "date": "Tuesday Jully, 5th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Create a Persona of the Emperor Arcana = Bonus Support skill"
+        },
+        "06": {
+            "date": "Wednesday Jully, 6th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "You can make Daigaku-imo for lunch tomorrow: Deep fry them (+ Bait x 3)"
+            },
+            "fusion": "None"
+        },
+        "07": {
+            "date": "Thursday Jully, 7th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Answer: Kakinomoto no Hitomaro (+ Knowledge)"
+            },
+            "fusion": "None"
+        },
+        "08": {
+            "date": "Friday Jully, 8th",
+            "weather": "Rainy",
+            "event": {
+                "1": "Nanako's Pudding in fridge (+Courage)"
+            },
+            "fusion": "Bonus stats"
+        },
+        "09": {
+            "date": "Saturday Jully, 9th",
+            "weather": "Rainy",
+            "event": {
+                "1": "It's the last day to save Rise Kujikawa",
+                "2": "Some free actions are prohibited in the evening"
+            },
+            "fusion": "Bonus stats"
+        },
+        "10": {
+            "date": "Sunday Jully, 10th",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "Daytime unavailable",
+                "2": "Answer to Rise Kujikawa: Leave it to me (+ Courage)",
+                "3": "Teddie and Rise Kujikawa join the investigation team (Fool arcana improved to level 6)",
+                "4": "Answer to Nanako Dojima: I'm here with you (+ Understanding)",
+                "5": "Evening time unavailable",
+                "6": "From tomorrow on, you can fuse Personas in the Velvet Room 4 or 5 or 6 together."
+
+            },
+            "fusion": "None"
+        },
+        "11": {
+            "date": "Monday Jully, 11th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "After School time unavailable"  
+            },
+            "fusion": "None"
+        },
+        "12": {
+            "date": "Tuesday Jully, 12th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Quest 21 available: Acquire a Charmed Veil (From Timid female student in classroom 2-2)",
+                "2": "You can make lunch for tomorrow: Cream Caramel; Vanilla Extract"
+            },
+            "fusion": "Use the Persona Unicorn in fusion = Bonus stats, Bonus Fire skill"
+        },
+        "13": {
+            "date": "Wednesday Jully, 13th",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "Answer: It takes time (+ Knowledge)",
+                "2": "Quest 18 available: Acquire a Flower Brooch (From Younger twin at the riverbed of Samegawa Flood Plain)"
+            },
+            "fusion": "None"
+        },
+        "14": {
+            "date": "Thursday Jully, 14th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Answer: Civil Dawn (+ Knowledge)",
+                "2": "You can make lunch for tomorrow :Fried chicken; potato starch"
+            },
+            "fusion": "Skill change"
+        },
+        "15": {
+            "date": "Friday Jully, 15th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Answer: No, it's not possible (+ Knowledge)",
+                "2": "You can buy ``Men in History`` from the Bookstore at the Shopping District South for 1200 yen"
+            },
+            "fusion": "Skill change"
+        },
+        "16": {
+            "date": "Saturday Jully, 16th",
+            "weather": "Rainy",
+            "event": {
+                "1": "Answer: Insect repellent (+ Knowledge)"
+            },
+            "fusion": "Bonus stats"
+        },
+        "17": {
+            "date": "Tuesday Jully, 17th",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "Shopping program: Purple Suit + Giant Candy x 2 for 20800 yen or Diamond Shield x 2 + Heavy Soup x 6 for 8800 yen"
+            },
+            "fusion": "None"
+        },
+        "18": {
+            "date": "Monday Jully, 18th",
+            "weather": "Sunny",
+            "event": {
+                "1": "There's a bitter melon with a bite taken out of it in the fridge (+ Courage)"
+            },
+            "fusion": "Create the Persona Flauros = Power Charge added"
+        },
+        "19": {
+            "date": "Sunday Jully, 19th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Final exams day one",
+                "2": "Answer 1: To hang",
+                "3": "Answer 2: From the play, Hamlet"
+            },
+            "fusion": "None"
+        },
+        "20": {
+            "date": "Wednesday1 Jully, 20th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Final exams day two",
+                "2": "Answer 1: Man-yoshu",
+                "3": "Answer 2: Socrates"
+            },
+            "fusion": "None"
+        },
+        "21": {
+            "date": "Thursday Jully, 21st",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "Finals, day three",
+                "2": "Answer 1: Insect repellent",
+                "3": "Answer 2: Jealousy of the superior"
+            },
+            "fusion": "None"
+        },
+        "22": {
+            "date": "Friday Jully, 22nd",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "Finals, day four",
+                "2": "Answer 1: Melons",
+                "3": "Answer 2: Nautical dawn is brightest"
+            },
+            "fusion": "None"
+        },
+        "23": {
+            "date": "Saturday Jully, 23rd",
+            "weather": "Cloudy",
+            "event": {
+                "1": "The last day of the exams",
+                "2":"All day time unavailable",
+                "3": "Answer to Rise Kujikawa: My pen was on fire (+ Courage)",
+                "4": "Answer to Rise Kujikawa: Formaldehyde",
+                "5": "Answer to Rise Kujikawa: Sure, I'll show you around (Lovers Arcana established)"
+            },
+            "fusion": "None"
+        },
+        "24": {
+            "date": "Sunday Jully, 24th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Shopping program: Kitchen Knife + Giant Candy x 2 for 11800 yen or Second Maid x 24 + Dr. Salt NEO x 24 for 7800 yen"
+            },
+            "fusion": "Use the Persona Pyro Jack in fusion = Bonus Ice skill"
+        },
+        "25": {
+            "date": "Monday Jully, 25th",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "Final exam results are posted",
+                "2": "If you get the highest score in the final exams, you can talk to Nanako Dojima to obtain Paper Armband",
+                "3": "There's a container of barley tea in the fridge (No effect, but you will go to sleep early)"
+            },
+            "fusion": "Bonus stats"
+        },
+        "26": {
+            "date": "Tuesday Jully, 26th",
+            "weather": "Rainy",
+            "event": {
+                "1": "A boy appears on the Midnight Channel (Star Arcana improved to level 3)"
+            },
+            "fusion": "Bonus stats"
+        },
+        "27": {
+            "date": "Wednesday Jully, 27th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "You meet up with the investigation team at Junes (Fool Arcana improved to Rank 7)",
+                "2": "Collect information of the boy for Rise Kujikawa: Talk with Kanji Tatsumi at the riverbed of Samegawa Flood Plain, then go to the Shopping District South and talk to Dojima Ryotaro in front of the Gas Station. You should be able to find Adachi and talk to him at Junes tomorrow"
+            },
+            "fusion": "None"
+        },"28": {
+            "date": "Thursday Jully, 28th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "After talking to Adachi, you can get information from Souzai Daigaku at Shopping District North"
+            },
+            "fusion": "None"
+        },
+        "29": {
+            "date": "Friday Jully, 29th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "A student in front of the Marukyu Tofu shop in the Shopping District South will give you more information on the boy on the Midnight Channel. After that, you can report to Rise Kujikawa in the TV World"
+            },
+            "fusion": "User a Persona of the Sun Arcana in fusion = Growth 2 added"
+        },
+        "30": {
+            "date": "Saturday Jully, 30th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Skill change"
+        },
+        "31": {
+            "date": "Sunday Jully, 31st",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "Shopping program: Maneki Neko + Giant Candy x 2 for 7980 yen or Smart Bomb x 2 + Super Sonic x 2 for 6980 yen"
+            },
+            "fusion": "None"
+        }
+    }
+}

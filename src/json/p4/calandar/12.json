@@ -1,0 +1,245 @@
+{
+    "04":{
+        "01": {
+            "date": "Thursday Novermber, 1st",
+            "weather": "Rainy",
+            "event": {
+                "1": "Finals, day four",
+                "2": "You can make lunch for tomorrow. Pick 'Mix and Cool Simultaneously'"
+            },
+            "fusion": "None"
+        },
+        "02": {
+            "date": "Saturday Novermber, 2nd",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Finals, day five"
+            },
+            "fusion": "None."
+        },
+        "03": {
+            "date": "Sunday  Novermber, 3rd",
+            "weather": "Sunny",
+            "event": {
+                "1": "It's the last day of the exams.",
+                "2": "If you want to find the true killer, pick the following answers:\nWait a second here.\nWe're missing something.\nNamatame's true feelings.\nSomething's bothering me.\nWe're missing something.\nCalm the hell down!\nChoosing an incorrect option will lead to a bad ending. Skip ahead to March 21."
+            },
+            "fusion": "None."
+        },
+        "04": {
+            "date": "Sunday Novermber, 4th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "Day time unavailable."
+            },
+            "fusion": "None."
+        },
+        "05": {
+            "date": "Monday Novermber, 5th",
+            "weather": "Rainy",
+            "event": {
+                "1": "In order to gather information about the true killer, you need to:\nAsk the Shopping woman at Shopping District, North near the shrine about those murders.\nAsk Female student at Junes about anyone suspicious.\nAsk Female student at Shopping District, South near bookstore about anyone suspicious.\nAsk the man at Shopping District, North in front of the Liquor Store about those murders. If it doesn't work, you'll need to ask everyone at the Central Shopping District and Samegawa Flood plain about those murders and anyone suspicious to progress.\nYou must pick Tohru Adachi as the suspicious one.\n** Choosing anyone but Tohru Adachi three times will result in a bad ending. Skip ahead to March 21."
+            },
+            "fusion": "none"
+        },
+        "06": {
+            "date": "Tuesday Novermber, 6th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Daytime not available."
+            },
+            "fusion": "None"
+        },
+        "07": {
+            "date": "Wednesday Novermber, 7th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Daytime not available."
+            },
+            "fusion": "None."
+        },
+        "08": {
+            "date": "Thursday Novermber, 8th",
+            "weather": "Rainy",
+            "event": {
+                "1": "Test results posted."
+            },
+            "fusion": "None."
+        },
+        "09": {
+            "date": "Friday Novermber, 9th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None."
+        },
+        "10": {
+            "date": "Saturday  Novermber, 10th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "11": {
+            "date": "Sunday Novermber, 11st",
+            "weather": "Sunny",
+            "event": {
+                "1": "No Shopping program."
+            },
+            "fusion": "Use a Persona of the Judgement Arcana in fusion = Bonus Fire skill, Elec skill, S. Link EXP."
+        },
+        "12": {
+            "date": "Monday Novermber, 12nd",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Fusion Forecast: Bonus S. Link EXP."
+        },
+        "13": {
+            "date": "Tuesday Novermber, 13rd",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "14": {
+            "date": "Wednesday Novermber, 14th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "15": {
+            "date": "Thursday  Novermber, 15th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "16": {
+            "date": "Friday Novermber, 16th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "17": {
+            "date": "Saturday Novermber, 17th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "18": {
+            "date": "Sunday Novermber, 18th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "19": {
+            "date": "Monday Novermber, 19th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "20": {
+            "date": "Tuesday Novermber, 20th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "21": {
+            "date": "Wednesday Novermber, 21th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "22": {
+            "date": "Tuesday Novermber, 22th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "23": {
+            "date": "Wednesday Novermber, 23th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "24": {
+            "date": "Thursday Novermber, 24th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Deadline for Magatsu Inaba",
+                "2": "Christmas Eve Event with your lover (or Yosuke, Kanji, and Teddie if you don't have a lover)"
+            },
+            "fusion": "None."
+        },
+        "25": {
+            "date": "Friday Novermber, 25th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "Christmas Event"
+            },
+            "fusion": "If you're playing the original Persona 4, the game skips ahead to March 20 at this point."
+        },
+        "26": {
+            "date": "Saturday Novermber, 26th",
+            "weather": "Sunny",
+            "1": "None"
+        },
+        "fusion": "None"
+        },
+        "27": {
+            "date": "Sunday Novermber, 27th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "28": {
+            "date": "Monday Novermber, 28th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "29": {
+            "date": "Tuesday Novermber, 29th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "30": {
+            "date": "Wednesday Novermber, 30th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        }
+    }

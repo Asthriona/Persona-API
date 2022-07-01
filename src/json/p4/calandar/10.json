@@ -1,0 +1,273 @@
+{
+    "04":{
+        "01": {
+            "date": "Saturday October, 1st",
+            "weather": "Rainy",
+            "event": {
+                "1": "Quest 35 available: Desk Refurbishing, Part 3 (From female Homely student in Practice Building 2F)."
+            },
+            "fusion": "User a Persona of the Hermit Arcana in fusion = Bonus Recovery skill, S. Link EXP."
+        },
+        "02": {
+            "date": "Sunday October, 2nd",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Chie will call you to hang out. If you decline, you still can make S. Link with her, Yosuke, Rise, Kanji, or Old Lady.",
+                "2": "Shopping program: Peach Battlesuit x 1and Wasabi Jelly x 2 for 29800 yen or Red Goldfish x 10 and Baits x 10 for 9800 yen.",
+                "3": "You can make Tender Pork Kakuni for lunch tomorrow."
+            },
+            "fusion": "none"
+        },
+        "03": {
+            "date": "Monday October, 3rd",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Skill change."
+        },
+        "04": {
+            "date": "Tuesday October, 4th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "Mr. Kondo: 0.5 liters (+ Knowledge)"
+            },
+            "fusion": "none"
+        },
+        "05": {
+            "date": "Wednesday October, 5th",
+            "weather": "Rainy",
+            "event": {
+                "1": "Mr. Yamada: The green pigment ages (+ Magician, + Expression)",
+                "2": "Last day to save Naoto",
+                "3": "Evening time unavailable"
+            },
+            "fusion": "none"
+        },
+        "06": {
+            "date": "Thursday October, 6th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "After school time unavailable",
+                "2": "There's some shortcake in the fridge. (Nothing happens)"
+            },
+            "fusion": "none"
+        },
+        "07": {
+            "date": "Friday October, 7th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "After school time unavailable"
+            },
+            "fusion": "none"
+        },
+        "08": {
+            "date": "Saturday October, 8th",
+            "weather": "Rainy",
+            "event": {
+                "1": "Mr. Kondo: teacher (+ Knowledge)"
+            },
+            "fusion": "None"
+        },
+        "09": {
+            "date": "Sunday October, 9th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Shopping program: Nice Shoes x 1 + Wasabi Jelly x 2 = 28800 yen or Huge Fish x 2 + Dry Ice x 4 = 19800 yen.",
+                "2": "Quest 33: Acquire Fine Coal (Requested by the Loud old man at the Shopping District, North) (Secret Lab, B7-8).",
+                "3": "Quest 38: A Twin's Independence (Requested by the younger twin at the riverbed of the Samegawa Flood Plain) (Secret Lab, B7-8).",
+                "4": "You can buy book 'Farewell to Man' at Bookstore for 1200 yen."
+            },
+            "fusion": "Bonus stats."
+        },
+        "10": {
+            "date": "Monday October, 10th",
+            "weather": "Sunny",
+            "event": {
+                "1": "There's a bag full of clams inside in the fridge (You left it alone)"
+            },
+            "fusion": "Bonus S. Link EXP."
+        },
+        "11": {
+            "date": "Tuesday October, 11st",
+            "weather": "Sunny",
+            "event": {
+                "1": "Answer to Ms. Sofue: His height (+ Knowledge).",
+                "2": "After school time unavailable."
+            },
+            "fusion": "None"
+        },
+        "12": {
+            "date": "Wednesday October, 12nd",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "You can make lunch for tomorrow: High"
+            },
+            "fusion": "Bonus stats."
+        },
+        "13": {
+            "date": "Thursday October, 13rd",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "14": {
+            "date": "Friday October, 14th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Your second term midterms begin today and continue until next Thursday.",
+                "2": "Midterms Day One start today"
+            },
+            "fusion": "None"
+        },
+        "15": {
+            "date": "Staurday October, 15th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Midterms Day Two"
+            },
+            "fusion": "None"
+        },
+        "16": {
+            "date": "Sunday October, 16th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Yosuke will call you for study group. If you decline, you still can make S. Link with Chie, Rise, Kanji, or old lady.",
+                "2": "Shopping program: Red Battlesuit x1 + Diet Food x 2 = 29800 yen or Physical Mirror x 3 + Magic Mirror x 3 = 19800 yen."
+            },
+            "fusion": "Use Justice and Priestess Personas in fusion = Repel Fire added."
+        },
+        "17": {
+            "date": "Monday October, 17th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Midterms, day three"
+            },
+            "fusion": "None"
+        },
+        "18": {
+            "date": "Tuesday October, 18th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Midterms, day four"
+            },
+            "fusion": "None"
+        },
+        "19": {
+            "date": "Wednesday October, 19th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "Midterms, day five"
+            },
+            "fusion": "None"
+        },
+        "20": {
+            "date": "Thursday  October, 20th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "It's the last day of the exams",
+                "2": "You can make S. Link with Naoto",
+                "3": "You have only one month to make S. Link with Naoto. So, do it as much as you can.",
+                "4": "Evening time not available."
+            },
+            "fusion": "None"
+        },
+        "21": {
+            "date": "Friday October, 21th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Use a Persona of the Empress Arcana in fusion = Bonus stats, S. Link EXP."
+        },
+        "22": {
+            "date": "Saturday October, 22th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "Yukiko came back to school",
+                "2": "Mt. Olympus (+ Knowledge)",
+                "3": "After school time unavailable",
+                "4": "Fool Social Link increased"
+            },
+            "fusion": "Skill Change"
+        },
+        "23": {
+            "date": "Saturday October, 23th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Chie will call you to hang out. If you declined, you still can make S. Link with Yukiko, Rise, Kanji, Yosuke, or old lady.",
+                "2": "Shopping program: Pure Assassin x 1 + Diet Food x 2 = 29800 yen or Chest Key x 2 + Prize Sticker x 5 = 6800 yen."
+            },
+            "fusion": "Bonus S. Link EXP."
+        },
+        "24": {
+            "date": "Monday October, 24th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Talk to Nanako if you get the highest score. You will get Bead Ring.",
+                "2": "Talk to your uncle if you get the highest score. You will get 50000 yen.",
+                "3": "There's a brown spherical object in the depths of the fridge (+ Courage, but you will go to bet early)."
+            },
+            "fusion": "None"
+        },
+        "25": {
+            "date": "Tuesday October, 25th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "You can make Savory Grilled Fish for lunch tomorrow. Pick 'Strong heat but from far away'."
+            },
+            "fusion": "Create the Persona Garuda = Bonus stats, S. Link EXP, Spell Master added."
+        },
+        "26": {
+            "date": "Wednesday October, 26th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Skill change."
+        },
+        "27": {
+            "date": "Thursday October, 27th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "After school time not available."
+            },
+            "fusion": "None"
+        },
+        "28": {
+            "date": "Friday October, 28th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "After school time not available."
+            },
+            "fusion": "None"
+        },
+        "29": {
+            "date": "Saturday October, 29th",
+            "weather": "Sunny",
+            "event": {
+                "1": "The first day of the Culture Festival."
+            },
+            "fusion": "None"
+        },
+        "30": {
+            "date": "Sunday October, 30th",
+            "weather": "Sunny",
+            "event": {
+                "1": "The second day of the Culture Festival."
+            },
+            "fusion": "None"
+        },
+        "31": {
+            "date": "Monday October, 31th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Quest 40: Experiment in Telepathy, Part 2 (Conditions: Quest 29 & 38 cleared). In case you don't meet the conditions, you can accept this quest on 11/17.",
+                "2": "Evening time not available."
+            },
+            "fusion": "Skill change."
+        }
+    }
+}

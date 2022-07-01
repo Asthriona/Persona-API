@@ -1,0 +1,255 @@
+{
+    "04":{
+        "01": {
+            "date": "Wednesday March, 1st",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "02": {
+            "date": "Thursday March, 2nd",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "03": {
+            "date": "Friday March, 3rd",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "04": {
+            "date": "Saturday March, 4th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "05": {
+            "date": "Sunday March, 5th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "06": {
+            "date": "Monday March, 6th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "07": {
+            "date": "Tuesday March 7th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "08": {
+            "date": "Wednesday March, 8th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "09": {
+            "date": "Thursday March, 9th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "10": {
+            "date": "Friday March, 10th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "11": {
+            "date": "Saturday March, 11st",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "12": {
+            "date": "Sunday March, 12nd",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "13": {
+            "date": "Monday March, 13rd",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "14": {
+            "date": "Tuesday March, 14th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "15": {
+            "date": "Wednesday March, 15th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "16": {
+            "date": "Thursday March, 16th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "17": {
+            "date": "Friday March, 17th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "18": {
+            "date": "Saturday March, 18th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "19": {
+            "date": "Sunday March, 19th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "20": {
+            "date": "Monday March, 20th",
+            "weather": "Sunny / Rainy",
+            "event": {
+                "1": "Only accessible if you got the normal ending.",
+                "2": "Talk to all the social link characters you've maxed out.",
+                "3": "Talk to Dojima\nIf you choose to go home, you will get the normal ending.\nIf you choose not to go home, you can access the true ending by following these steps:\n1.Check the elevator in Junes. When it asks if you want to go home, say 'no.'\n2.Check the elevator again. Choose the option 'I have some unfinished business.'\n3.Go to the food court.\n4.Food court event.\n5.Talk to Dojima and Nanako in Samegawa.\n6.Go to the Velvet Room\n7.Talk to the Gas Station Attendant at Moel to unlock Yomotsu Hirasaka.",
+                "4": "You have one day to complete Yomotsu Hirasaka, and there's no leaving once you begin."
+            },
+            "fusion": "None"
+        },
+        "21": {
+            "date": "Tuesday March, 21th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Last day in Inaba"
+            },
+            "fusion": "None"
+        },
+        "22": {
+            "date": "Wednesday March, 22th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "23": {
+            "date": "Thursday March, 23th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "24": {
+            "date": "Friday March, 24th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "25": {
+            "date": "Saturday March, 25th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "26": {
+            "date": "Sunday March, 26th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "27": {
+            "date": "Monday March, 27th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "28": {
+            "date": "Tuesday March, 28th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "29": {
+            "date": "Wednesday March, 29th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "30": {
+            "date": "Thursday March, 30th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        },
+        "31": {
+            "date": "Friday March, 31th",
+            "weather": "None",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "None"
+        }
+    }
+}

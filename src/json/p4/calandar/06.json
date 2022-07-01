@@ -1,0 +1,276 @@
+{
+    "06":{
+        "01": {
+            "date": "Wednesday June, 1st",
+            "weather": "Cloudy",
+            "event": {
+                "1": "From today on you can get a free Bait in Dojima Residence every non-rainy day",
+                "2": "You can buy ``Forever Macho`` for ¥1,200 at bookstore",
+                "3": "You can spend time with Dojima to get some random items"
+            },
+            "fusion": "None"
+        },
+        "02": {
+            "date": "Thursday June, 2nd",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Create a Persona of the Magician Arcana, bonus Recovery skill, bonus stats"
+        },
+        "03": {
+            "date": "Friday June, 3rd",
+            "weather": "Rainy",
+            "event": {
+                "1": "Quest 14: Please Feed the Cat available"
+            },
+            "fusion": "Create the Persona Ares, Null Poison added"
+        },
+        "04": {
+            "date": "Saturday June, 4th",
+            "weather": "Rainy",
+            "event": {
+                "1": "Today is the last day to save Kanji Tatsumi"  
+            },
+            "fusion": "Bonus stats"
+        },
+        "05": {
+            "date": "Sunday June, 5th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Quest 09: Acquire an Old Key available",
+                "2": "Quest 11: Acquire Coal available",
+                "3": "Tanaka's Amazing Commodities: Jingi Fundoshi + Slimming Food x2 for ¥11,800 or Inaba Trout + Amber Seema x2 for ¥2,980"
+            },
+            "fusion": "None"
+        },
+        "06": {
+            "date": "Monday June, 6th",
+            "weather": "Sunny",
+            "event": {
+                "1": "After School unavailable",
+                "2": "Fool Arcana Social Link increased",
+                "3": "Choco Flakes in the fridge (No effect)"
+            },
+            "fusion": "None"
+        },
+        "07": {
+            "date": "Tuesday June, 7th",
+            "weather": "Rainy",
+            "event": {
+                "1": "Quest 12: Desk Refurbishing, Part 2 availableé",
+                "2": "Quest 15: Acquire a Crooked Cross available"
+            },
+            "fusion": "Use a Persona of the Hanged Man Arcana in fusion = Bonus Ice skill, Bonus stats"
+        },
+        "08": {
+            "date": "Wednesday June, 8th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "From the play, Hamlet. (+Priestess, +Expression)",
+                "2": "After school time unavailable",
+                "3": "Kitao from Santo Inc.",
+                "4": "Can it come in two months? (+Knowledge, +Expression)",
+                "5": "You will receive your order from Tanaka's Amazing Commodities",
+                "6": "You can prepare lunch for tomorrow"
+            },
+            "fusion": "None"
+        },
+        "09": {
+            "date": "Thursday June, 9th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Hanged Man Social Link unlocked",
+                "2": "Emperor Social Link unlocked",
+                "3": "Quest 16: Acquire a Horn available",
+                "4": "Quest 17: Please Find My Younger Twin available"
+            },
+            "fusion": "Use Moon and Devil Personas in fusion = Wind Boost added"
+        },
+        "10": {
+            "date": "Friday June, 10th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "None"
+
+            },
+            "fusion": "Bonus stats"
+        },
+        "11": {
+            "date": "Saturday June, 11th",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "None"  
+            },
+            "fusion": "None"
+        },
+        "12": {
+            "date": "Sunday June, 12th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Yukiko Amagi will call you. If you decline, you still can make Social Link with her at the Shopping District South or Yosuke Hanamura at Junes or Kanji Tatsumi at Shopping District North",
+                "2": "Tanaka's Amazing Commodities: Fire Surpressor + H.. x2 for ... or Balm of Life + Curse Paper x4 for ...",
+                "3": "You can make lunch for tomorrow (smash them while still hot, bait x3)"
+            },
+            "fusion": "Create the Persona Incubus = Null Ice added"
+        },
+        "13": {
+            "date": "Monday June, 13th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Anaerobics. (+Knowledge)",
+                "2": "Fusion: Use Rakshasha and Matador in fusion = Resist Ice added, bonus stats",
+                "3": "Frozen Banana in the fridge. (No effect)"
+            },
+            "fusion": "None"
+        },
+        "14": {
+            "date": "Tuesday June, 14th",
+            "weather": "Rainy",
+            "event": {
+                "1": "Evening time unavailable"
+            },
+            "fusion": "Bonus stats"
+        },
+        "15": {
+            "date": "Wednesday June, 15th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "to hang (+Knowledge, +Magician)"
+            },
+            "fusion": "None"
+        },
+        "16": {
+            "date": "Thursday June, 16th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "After school unavailable (grocery trip to Junes)"
+            },
+            "fusion": "None"
+        },
+        "17": {
+            "date": "Sunday June, 17th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "School Camp",
+                "2": "Eat it (+Chariot, +Priestess requires Courage)",
+                "3": "Don't do this (+Expression)"
+            },
+            "fusion": "None"
+        },
+        "18": {
+            "date": "Saturday June, 18th",
+            "weather": "Cloudy / Rainy",
+            "event": {
+                "1": "School Camp"
+            },
+            "fusion": "None"
+        },
+        "19": {
+            "date": "Friday June, 19th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Rise Kujikawa appears on TV",
+                "2": "Evening time unavailable",
+                "3": "Tanaka's Amazing Commodities: Power Belt + Herbal Pill x2 for ¥4,980 or Huge Fish + Ice Cube x4 for ¥9,800"
+            },
+            "fusion": "None"
+        },
+        "20": {
+            "date": "Monday June, 20th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Socrates (+Knowledge)",
+                "2": "There's a small bag of Wasabi in the fridge (+Courage)"
+            },
+            "fusion": "None"
+        },
+        "21": {
+            "date": "Tuesday June, 21st",
+            "weather": "Rainy",
+            "event": {
+                "1": "A blur Rise Kujikawa appeared on TV at Midnight for the first time"
+            },
+            "fusion": "None Conditions = Bonus Social Link EXP, Bonus stats, Bonus Recovery skill"
+        },
+        "22": {
+            "date": "Wednesday June, 22nd",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "After School time unavailable",
+                "2": "Recommend Ganmodoki (+Magician)",
+                "3": "Evening time unavailable"
+            },
+            "fusion": "None"
+        },
+        "23": {
+            "date": "Thursday June, 23rd",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "After School time unavailable",
+                "2": "Rise Kujikawa is missing"
+            },
+            "fusion": "None"
+        },
+        "24": {
+            "date": "Friday June, 24th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Star Social Link established",
+                "2": "Collect information about Rise Kujikawa: first, ask Marukyu Tofu shop at Shopping District South. Then ask Rissette fan at the Practice Building 2F. Then ask Kind man at Samegawa Flood Plain."
+            },
+            "fusion": "Skill change"
+        },
+        "25": {
+            "date": "Saturday June, 25th",
+            "weather": "Rainy",
+            "event": {
+                "1": "Collect information about Rise Kujikawa: Trade information with the Photographer at Samegawa Flood Plain. That's the end of it. You can report to Teddie."
+            },
+            "fusion": "Bonus stats"
+        },
+        "26": {
+            "date": "Sunday June, 26th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "Tanaka's Amazing Commodities: Myth-like Sword + Herbal Pill x 2 for 9800 yen or Purifying Salt x 2 + Segaki Rice x 2 for 3980 yen"
+            },
+            "fusion": "None"
+        },
+        "27": {
+            "date": "Monday June, 27th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Answer: Hatred and jealousy. (+Knowledge)",
+                "2": "Empress Social Link may be established in the Velvet Room",
+                "3": "There's a side dish from Junes in the fridge (No effect)"
+            },
+            "fusion": "Skill change"
+        },"28": {
+            "date": "Tuesday June, 28th",
+            "weather": "Rainy / Sunny",
+            "event": {
+                "1": "You can buy ``Short on Cash`` for ¥1,500 at bookstore"
+            },
+            "fusion": "Use Yomotsu-Ikusa in Fusion = Bonus Wind skills"
+        },
+        "29": {
+            "date": "Wednesday June, 29th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "Look for bubbles on top + 5 bait (No lunch)",
+                "2": "Cut a hole and look for juice + 3 bait (Lunch)"
+            },
+            "fusion": "None"
+        },
+        "30": {
+            "date": "Thursday June, 30th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Answer: Pis Pis River (+Knowledge)",
+                "2": "Quest 19 is available: Acquire a Silver Lump (From male student in Practice Building 1F)"
+            },
+            "fusion": "Use Titania and Makami in fusion = Bufula added, Bonus stats"
+        }
+    }
+}

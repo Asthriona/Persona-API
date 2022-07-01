@@ -1,0 +1,296 @@
+{
+    "05":{
+        "01": {
+            "date": "Sunday May, 1st",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Received a call of Chie to enter the TV World",
+                "2": "Quest 05: Acquire Mori Ranmaru Shochu available",
+                "3": "Fishing unlocked. You get Fishing Set and 10 Bait"
+            },
+            "fusion": "Create the Persona Jack Frost, Resist Fire added, bonus stats"
+        },
+        "02": {
+            "date": "Monday May, 2nd",
+            "weather": "Rainy",
+            "event": {
+                "1": "+ Knowledge",
+                "2": "Starts the week previous to the exams, so you cannot improve the Strength nor the Sun Social Link.",
+                "3": "Quest 01: Acquire an Angel Statue",
+                "4": "Quest 02: Acquire a Demon Statue",
+                "5": "Quest 04: Acquire a Ritz Wire",
+                "6": "Dried-up pickle in the fridge (+ Courage)"
+            },
+            "fusion": "Bonus stats"
+        },
+        "03": {
+            "date": "Tuesday May, 3rd",
+            "weather": "Cloudy / Sunny",
+            "event": {
+                "1": "Holiday: Constitution Day",
+                "2": "You hang around with Yosuke Hanamura, Yukiko Amagi, Chie Satonaka and Nanako Dojima",
+                "3": "Justice Social Link established"
+            },
+            "fusion": "Skill change"
+        },
+        "04": {
+            "date": "Wednesday May, 4th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Holiday: Nature Day",
+                "2": "Yosuke Hanamura will call you to hang around. You will meet with Yosuke Hanamura, Nanako Dojima, Kou and Daisuke. You will get social link points for the Magician, Justice and Strength Social Link. If you decide to pass you can hang out with Yosuke Hanamura or Chie Satonaka."  
+            },
+            "fusion": "Skill Change"
+        },
+        "05": {
+            "date": "Thursday May, 5th",
+            "weather": "Sunny",
+            "event": {
+                "1": "You will explore the city, you can go to the Junes's grocery department and buy Tater Longs or the Yosoinaba Station and buy TaP Soda. Finally you will go automatically to the Shrine",
+                "2": "Hermit Social Link established"
+            },
+            "fusion": "Skill Change"
+        },
+        "06": {
+            "date": "Friday May, 6th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "You can establish the Hierophant Social Link by talking to Ryotaro Dojima"
+            },
+            "fusion": "Create a Persona of the Hierophant Arcana, Dodge Fire added"
+        },
+        "07": {
+            "date": "Saturday May, 7th",
+            "weather": "Rainy",
+            "event": {
+                "1": "Ionize (+ Knowledge)",
+                "2": "You can buy Off Today BookYukiko appears on Midnight Channel",
+                "3": "Nanako is free in the evening to hang out giving points for the Justice Social Link."
+            },
+            "fusion": "Bonus stats"
+        },
+        "08": {
+            "date": "Sunday May, 8th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Chie will call you to hang out. Improves Chariot Social Link, if you decide to pass you can still hang out with Yosuke Hanamura"
+            },
+            "fusion": "None"
+        },
+        "09": {
+            "date": "Monday May, 9th",
+            "weather": "Cloudy / Sunny",
+            "event": {
+                "1": "The Midterm exams begin",
+                "2": "8 AM",
+                "3": "Before Christ"
+            },
+            "fusion": "None"
+        },
+        "10": {
+            "date": "Tuesday May, 10th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "6",
+                "2": "Millennium"
+
+            },
+            "fusion": "None"
+        },
+        "11": {
+            "date": "Wednesday May, 11th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "Rene Descartes",
+                "2": "Mt. Olympus"  
+            },
+            "fusion": "None"
+        },
+        "12": {
+            "date": "Thursday May, 12th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Last day of exams (With level 4 of Knowledge or more you will get the best qualifications)",
+                "2": "Olympus Mons",
+                "3": "You can prepare food for tomorrow"
+            },
+            "fusion": "Create the Persona Ara Mitama, Auto-Tarukaja added"
+        },
+        "13": {
+            "date": "Friday May, 13th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Kanji Tatsumi appears on TV"
+            },
+            "fusion": "None"
+        },
+        "14": {
+            "date": "Saturday May, 14th",
+            "weather": "Rainy",
+            "event": {
+                "1": "After school time unavailable",
+                "2": "Grass in the fridge (+ Courage)",
+                "3": "A man silhouette appears on Midnight Channel"
+            },
+            "fusion": "Bonus stats"
+        },
+        "15": {
+            "date": "Sunday May, 15th",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "Daytime unavailable",
+                "2": "The silhouette of Kanji Tatsumi appears on Midnight Channel",
+                "3": "Yosuke will ask you for which of the girls you like, if you say both you will increase your Understanding by saying neither you will increase your Courage"
+            },
+            "fusion": "None"
+        },
+        "16": {
+            "date": "Monday May, 16th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "After school time unavailable",
+                "2": "Chilled Gulping Melon Cream Soda in the fridge (No effect)"
+            },
+            "fusion": "None"
+        },
+        "17": {
+            "date": "Thursday May, 17th",
+            "weather": "Sunny / Cloudy",
+            "event": {
+                "1": "After school time unavailable",
+                "2": "No worries, I'll protect you (Requires level 3 Courage)",
+                "3": "Priestess Social Link established" ,
+                "4": "Ask her straight out (Requires Courage)",
+                "5": "Kanji Tatsumi appears on Midnight Channel"
+            },
+            "fusion": "None"
+        },
+        "18": {
+            "date": "Wednesday May, 18th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Fool Social Link increased to level 3",
+                "2": "You can buy now Ointment, Medikal Kit, Royal Jelly, Mouthwash, Sedative, Stimulant, and Vanish Ball at Shiroku Store",
+                "3": "Quest 07: Desk Refurbishing available",
+                "4": "Quest 10: Extracurricular Activities available",
+                "5": "To get the information about Kanji talk with his mother in Central Shopping District, North; then go to Junes Department Store and talk to the only woman there. Come back tomorrow at the same place and talk to the slender young man.",
+                "6": "Today you can improve your Strength Social Link",
+                "7": "A conversation with Nanako may be available, meaning a chance to raise your Justice Social Link"
+            },
+            "fusion": "Skill change"
+        },
+        "19": {
+            "date": "Tuesday May, 19th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Test results are posted. If you get good results you will increase your Social Link of the Chariot, Magician and Strength. Depending of your results you could get also 30000/20000¥ from Ryotaro Dojima, a Portrait Medal from Nanako Dojima and 3 Chest Key from Ms.Sofue (Classroom Building 2F). You can also receive items in your shoe locker.",
+                "2": "Empress Social Link established",
+                "3": "You can accept now Margaret's requests in the Velvet Room if you have level 3 Knowledge, starting for fusing an Ippon-Datara with Sukukaja ability",
+                "4": "You can unlock Sauna"
+            },
+            "fusion": "Create a Persona of the Justice Arcana, bonus Social Link Experience, Maragi added"
+        },
+        "20": {
+            "date": "Friday May, 20th",
+            "weather": "Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Skill change"
+        },
+        "21": {
+            "date": "Saturday May, 21st",
+            "weather": "Cloudy",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Create a Persona of the Priestess Arcana, bonus Social Link Experience, Resist Dizzy added"
+        },
+        "22": {
+            "date": "Sunday May, 22nd",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Tanaka's Commodities show unlocked",
+                "2": "Tanaka: Adios Shoes + 2 Slimming Food for 5980¥ or Medical Kit + 4 Medicine for 2980¥"
+            },
+            "fusion": "None"
+        },
+        "23": {
+            "date": "Monday May, 23rd",
+            "weather": "Rainy / Cloudy",
+            "event": {
+                "1": "Quest 08: Book Exchange available"
+            },
+            "fusion": "None"
+        },
+        "24": {
+            "date": "Tuesday May, 24th",
+            "weather": "Cloudy / Sunny",
+            "event": {
+                "1": "There is food in the fridge for cooking",
+                "2": "You will receive your order from Tanaka"
+            },
+            "fusion": "Use the Persona Andra in fusion, Bonus Wind skill"
+        },
+        "25": {
+            "date": "Wednesday May, 25th",
+            "weather": "Sunny",
+            "event": {
+                "1": "Nightly part-time jobs unlocked",
+                "2": "You can start the Moon Social Link"
+            },
+            "fusion": "Skill change"
+        },
+        "26": {
+            "date": "Thursday May, 26th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "Sacred Carvings (+ Expression, +3 Magician)",
+                "2": "You can establish the Tower Social Link"
+            },
+            "fusion": "None"
+        },
+        "27": {
+            "date": "Friday May, 27th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "You can establish the Devil Social Link"
+            },
+            "fusion": "none"
+        },"28": {
+            "date": "Saturday May, 28th",
+            "weather": "Rainy / Sunny",
+            "event": {
+                "1": "None"
+            },
+            "fusion": "Create the Persona King Frost, Growth 1 added"
+        },
+        "29": {
+            "date": "Sunday May, 29th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "You will receive a call from Kou to hang out (+2 Strength + 2 Chariot)",
+                "2": "Thanks (You will receive Witch Detective)",
+                "3": "Tanaka: Steel Panier + 2 Slimming Food for 11800¥ or 2 Ball lighting + 2 Chest Key for 4980¥"
+            },
+            "fusion": "None"
+        },
+        "30": {
+            "date": "Monday May, 30th",
+            "weather": "Cloudy",
+            "event": {
+                "1": "+ Knowledge",
+                "2": "You can drink a bottle of milk at the fridge to increase Courage"
+            },
+            "fusion": "None"
+        },
+        "31": {
+            "date": "Tuesday May, 31st",
+            "weather": "Cloudy",
+            "event": {
+                "1": "There is food in the fridge to prepare lunch for tomorrow"
+            },
+            "fusion": "Use the Persona Shiisaa in fusion, bonus stats, bonus Social Link Experience"
+        }
+    }
+}
